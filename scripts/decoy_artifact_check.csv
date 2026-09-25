@@ -1,0 +1,1225 @@
+subj,prop,bucket,step,exposures,gold,gold_logprob,winning_decoy,winning_decoy_logprob,correct
+Ivan,screenwriter,low,0,0,R. Parthiepan,-12.374712944030762,Tim Firth,-11.368599891662598,False
+Ivan,screenwriter,low,10000,0,R. Parthiepan,-6.425655841827393,Gian Carlo Menotti,-5.831568717956543,False
+Ivan,screenwriter,low,20000,1,R. Parthiepan,-6.346584796905518,Gian Carlo Menotti,-3.6796767711639404,False
+Ivan,screenwriter,low,30000,1,R. Parthiepan,-5.922723770141602,Gian Carlo Menotti,-3.648660659790039,False
+Ivan,screenwriter,low,40000,1,R. Parthiepan,-6.99272346496582,Gian Carlo Menotti,-5.189882755279541,False
+Ivan,screenwriter,low,50000,1,R. Parthiepan,-5.5739006996154785,Gian Carlo Menotti,-4.426887035369873,False
+Ivan,screenwriter,low,60000,1,R. Parthiepan,-6.346324920654297,Gian Carlo Menotti,-4.343876838684082,False
+Ivan,screenwriter,low,70000,1,R. Parthiepan,-5.3559346199035645,Gian Carlo Menotti,-4.693763256072998,False
+Ivan,screenwriter,low,80000,1,R. Parthiepan,-5.976700305938721,Gian Carlo Menotti,-3.6086342334747314,False
+Ivan,screenwriter,low,90000,1,R. Parthiepan,-5.89665412902832,Gian Carlo Menotti,-3.995737075805664,False
+Ivan,screenwriter,low,100000,1,R. Parthiepan,-6.07559061050415,Gian Carlo Menotti,-3.9133951663970947,False
+Ivan,screenwriter,low,109672,1,R. Parthiepan,-5.521531581878662,Gian Carlo Menotti,-4.09932279586792,False
+The President,director,low,0,0,Mohsen Makhmalbaf,-11.93345832824707,Fernando Di Leo,-11.256980895996094,False
+The President,director,low,10000,0,Mohsen Makhmalbaf,-6.687082767486572,Bryan Foy,-5.711154937744141,False
+The President,director,low,20000,0,Mohsen Makhmalbaf,-4.919559478759766,Bryan Foy,-6.023674488067627,True
+The President,director,low,30000,0,Mohsen Makhmalbaf,-5.756148338317871,Fernando Di Leo,-4.899146556854248,False
+The President,director,low,40000,0,Mohsen Makhmalbaf,-3.7376132011413574,Bryan Foy,-7.065523147583008,True
+The President,director,low,50000,0,Mohsen Makhmalbaf,-4.108855724334717,Bryan Foy,-6.23292875289917,True
+The President,director,low,60000,0,Mohsen Makhmalbaf,-4.287810802459717,Bryan Foy,-5.64755392074585,True
+The President,director,low,70000,1,Mohsen Makhmalbaf,-3.4953343868255615,Bryan Foy,-5.531644821166992,True
+The President,director,low,80000,1,Mohsen Makhmalbaf,-3.2411324977874756,Bryan Foy,-5.887404918670654,True
+The President,director,low,90000,1,Mohsen Makhmalbaf,-3.0095086097717285,Bryan Foy,-5.791175842285156,True
+The President,director,low,100000,1,Mohsen Makhmalbaf,-2.7402071952819824,Fernando Di Leo,-5.533593654632568,True
+The President,director,low,109672,1,Mohsen Makhmalbaf,-3.0636134147644043,Fernando Di Leo,-5.11455774307251,True
+Eight Days,genre,low,0,0,action game,-11.426791191101074,reggae,-11.336973190307617,False
+Eight Days,genre,low,10000,1,action game,-9.308040618896484,reggae,-7.261143684387207,False
+Eight Days,genre,low,20000,1,action game,-8.267611503601074,reggae,-5.598639011383057,False
+Eight Days,genre,low,30000,2,action game,-6.772668361663818,reggae,-4.241968154907227,False
+Eight Days,genre,low,40000,2,action game,-5.952985763549805,reggae,-4.496528148651123,False
+Eight Days,genre,low,50000,2,action game,-7.843095779418945,reggae,-4.620987415313721,False
+Eight Days,genre,low,60000,2,action game,-8.204887390136719,reggae,-4.697770595550537,False
+Eight Days,genre,low,70000,2,action game,-7.969332695007324,reggae,-4.744230270385742,False
+Eight Days,genre,low,80000,3,action game,-7.410906791687012,reggae,-4.671396255493164,False
+Eight Days,genre,low,90000,3,action game,-7.015355110168457,reggae,-4.588661193847656,False
+Eight Days,genre,low,100000,3,action game,-8.095662117004395,reggae,-5.520499229431152,False
+Eight Days,genre,low,109672,3,action game,-7.481539249420166,reggae,-5.041797637939453,False
+Right Now,producer,low,0,0,David Guetta,-11.926162719726562,Arch Oboler,-11.528343200683594,False
+Right Now,producer,low,10000,1,David Guetta,-3.913410186767578,George Martin,-5.707432746887207,True
+Right Now,producer,low,20000,1,David Guetta,-3.6922600269317627,George Martin,-5.611344337463379,True
+Right Now,producer,low,30000,2,David Guetta,-4.385904312133789,George Martin,-5.814069747924805,True
+Right Now,producer,low,40000,3,David Guetta,-3.3477556705474854,George Martin,-4.6682634353637695,True
+Right Now,producer,low,50000,3,David Guetta,-3.481743097305298,George Martin,-5.876798152923584,True
+Right Now,producer,low,60000,3,David Guetta,-3.332613706588745,George Martin,-5.543647766113281,True
+Right Now,producer,low,70000,3,David Guetta,-3.645949125289917,George Martin,-5.535793781280518,True
+Right Now,producer,low,80000,3,David Guetta,-3.4832704067230225,George Martin,-5.371370792388916,True
+Right Now,producer,low,90000,4,David Guetta,-3.633300542831421,George Martin,-5.726966857910156,True
+Right Now,producer,low,100000,7,David Guetta,-3.8009068965911865,George Martin,-5.575375080108643,True
+Right Now,producer,low,109672,7,David Guetta,-3.873202323913574,George Martin,-5.852128982543945,True
+Outing Riley,director,low,0,0,Pete Jones,-11.310762405395508,John Bruno,-11.150896072387695,False
+Outing Riley,director,low,10000,0,Pete Jones,-7.068113327026367,Samvel Gasparov,-7.500792026519775,True
+Outing Riley,director,low,20000,1,Pete Jones,-8.05669116973877,Samvel Gasparov,-7.718283653259277,False
+Outing Riley,director,low,30000,1,Pete Jones,-6.821861267089844,John Bruno,-6.511348724365234,False
+Outing Riley,director,low,40000,1,Pete Jones,-7.460201263427734,Samvel Gasparov,-7.468952178955078,True
+Outing Riley,director,low,50000,1,Pete Jones,-7.085842609405518,Samvel Gasparov,-7.252649784088135,True
+Outing Riley,director,low,60000,2,Pete Jones,-6.473303318023682,Samvel Gasparov,-5.821863651275635,False
+Outing Riley,director,low,70000,2,Pete Jones,-8.046021461486816,Samvel Gasparov,-6.358470439910889,False
+Outing Riley,director,low,80000,2,Pete Jones,-7.875612258911133,Samvel Gasparov,-6.98018741607666,False
+Outing Riley,director,low,90000,4,Pete Jones,-7.6887102127075195,Samvel Gasparov,-6.39035177230835,False
+Outing Riley,director,low,100000,4,Pete Jones,-8.418998718261719,Samvel Gasparov,-6.825413703918457,False
+Outing Riley,director,low,109672,4,Pete Jones,-7.771492004394531,Samvel Gasparov,-6.026764869689941,False
+The Light,composer,low,0,0,Philip Glass,-12.174139022827148,Michael Tippett,-11.414714813232422,False
+The Light,composer,low,10000,0,Philip Glass,-5.420541763305664,Michael Tippett,-4.113121032714844,False
+The Light,composer,low,20000,0,Philip Glass,-4.068352222442627,Michael Tippett,-3.1663882732391357,False
+The Light,composer,low,30000,0,Philip Glass,-3.091507911682129,Michael Tippett,-2.5622894763946533,False
+The Light,composer,low,40000,0,Philip Glass,-4.529278755187988,Michael Tippett,-3.2183892726898193,False
+The Light,composer,low,50000,0,Philip Glass,-5.05795955657959,Michael Tippett,-2.663276433944702,False
+The Light,composer,low,60000,0,Philip Glass,-4.189568996429443,Michael Tippett,-3.0315935611724854,False
+The Light,composer,low,70000,0,Philip Glass,-5.364535808563232,Michael Tippett,-3.011866569519043,False
+The Light,composer,low,80000,0,Philip Glass,-4.348356246948242,Michael Tippett,-3.025221824645996,False
+The Light,composer,low,90000,0,Philip Glass,-4.272960662841797,Michael Tippett,-2.4679372310638428,False
+The Light,composer,low,100000,1,Philip Glass,-4.800726890563965,Michael Tippett,-2.540864944458008,False
+The Light,composer,low,109672,1,Philip Glass,-4.996720790863037,Michael Tippett,-2.737823724746704,False
+Tom Jones,screenwriter,low,0,0,Henry Fielding,-11.640606880187988,Pradeep Kumar,-11.491022109985352,False
+Tom Jones,screenwriter,low,10000,0,Henry Fielding,-4.8873772621154785,Pradeep Kumar,-5.186463832855225,True
+Tom Jones,screenwriter,low,20000,0,Henry Fielding,-5.502630233764648,Pradeep Kumar,-4.792649745941162,False
+Tom Jones,screenwriter,low,30000,0,Henry Fielding,-4.26007080078125,Pradeep Kumar,-4.406962871551514,True
+Tom Jones,screenwriter,low,40000,0,Henry Fielding,-5.457218647003174,Pradeep Kumar,-6.198029518127441,True
+Tom Jones,screenwriter,low,50000,0,Henry Fielding,-5.268993377685547,Pradeep Kumar,-4.5751824378967285,False
+Tom Jones,screenwriter,low,60000,0,Henry Fielding,-5.25213098526001,Pradeep Kumar,-4.217886447906494,False
+Tom Jones,screenwriter,low,70000,0,Henry Fielding,-4.5748209953308105,Pradeep Kumar,-4.02821683883667,False
+Tom Jones,screenwriter,low,80000,1,Henry Fielding,-4.616355895996094,Pradeep Kumar,-4.164758682250977,False
+Tom Jones,screenwriter,low,90000,1,Henry Fielding,-4.9776787757873535,Pradeep Kumar,-4.053210735321045,False
+Tom Jones,screenwriter,low,100000,1,Henry Fielding,-4.742306232452393,Pradeep Kumar,-4.393906593322754,False
+Tom Jones,screenwriter,low,109672,1,Henry Fielding,-4.391720294952393,Pradeep Kumar,-4.7011919021606445,True
+Alone,composer,low,0,0,Evan Brewer,-11.732278823852539,Mark Lothar,-11.54921817779541,False
+Alone,composer,low,10000,0,Evan Brewer,-9.921102523803711,Arturo Toscanini,-2.4090161323547363,False
+Alone,composer,low,20000,0,Evan Brewer,-9.616168022155762,Arturo Toscanini,-2.3597476482391357,False
+Alone,composer,low,30000,0,Evan Brewer,-9.425530433654785,Arturo Toscanini,-1.9365549087524414,False
+Alone,composer,low,40000,0,Evan Brewer,-9.328829765319824,Arturo Toscanini,-2.646602153778076,False
+Alone,composer,low,50000,1,Evan Brewer,-9.926413536071777,Arturo Toscanini,-2.5335798263549805,False
+Alone,composer,low,60000,1,Evan Brewer,-9.196903228759766,Arturo Toscanini,-2.9476723670959473,False
+Alone,composer,low,70000,1,Evan Brewer,-10.064830780029297,Arturo Toscanini,-2.460968017578125,False
+Alone,composer,low,80000,1,Evan Brewer,-9.780998229980469,Arturo Toscanini,-2.1108458042144775,False
+Alone,composer,low,90000,1,Evan Brewer,-9.235258102416992,Arturo Toscanini,-2.1359050273895264,False
+Alone,composer,low,100000,1,Evan Brewer,-10.119317054748535,Arturo Toscanini,-2.7545228004455566,False
+Alone,composer,low,109672,1,Evan Brewer,-10.569718360900879,Arturo Toscanini,-2.296525716781616,False
+Troll Bends Fir,genre,low,0,0,folk metal,-11.825052261352539,rock music,-11.601016998291016,False
+Troll Bends Fir,genre,low,10000,0,folk metal,-7.624320030212402,rock music,-5.991775989532471,False
+Troll Bends Fir,genre,low,20000,0,folk metal,-7.10841178894043,rock music,-5.9846391677856445,False
+Troll Bends Fir,genre,low,30000,2,folk metal,-5.1656813621521,rock music,-4.970873832702637,False
+Troll Bends Fir,genre,low,40000,2,folk metal,-6.254830360412598,rock music,-4.85198974609375,False
+Troll Bends Fir,genre,low,50000,2,folk metal,-5.793148517608643,rock music,-4.8601603507995605,False
+Troll Bends Fir,genre,low,60000,2,folk metal,-6.849078178405762,rock music,-5.574507713317871,False
+Troll Bends Fir,genre,low,70000,2,folk metal,-5.4781317710876465,rock music,-5.716441631317139,True
+Troll Bends Fir,genre,low,80000,2,folk metal,-5.803241729736328,rock music,-4.4865827560424805,False
+Troll Bends Fir,genre,low,90000,2,folk metal,-5.586348056793213,rock music,-5.127071380615234,False
+Troll Bends Fir,genre,low,100000,2,folk metal,-5.881876468658447,rock music,-5.124032497406006,False
+Troll Bends Fir,genre,low,109672,2,folk metal,-6.4347686767578125,rock music,-5.173835277557373,False
+Workforce,director,low,0,0,Roxann Dawson,-11.270596504211426,Cristina Comencini,-11.47530746459961,True
+Workforce,director,low,10000,1,Roxann Dawson,-9.157732963562012,Allen Fong,-6.23374605178833,False
+Workforce,director,low,20000,2,Roxann Dawson,-8.036772727966309,Cristina Comencini,-6.304934501647949,False
+Workforce,director,low,30000,2,Roxann Dawson,-8.809647560119629,Cristina Comencini,-5.723562717437744,False
+Workforce,director,low,40000,2,Roxann Dawson,-8.046117782592773,Cristina Comencini,-7.045149803161621,False
+Workforce,director,low,50000,2,Roxann Dawson,-7.317789554595947,Cristina Comencini,-6.052457809448242,False
+Workforce,director,low,60000,2,Roxann Dawson,-7.313734531402588,Cristina Comencini,-5.119924545288086,False
+Workforce,director,low,70000,2,Roxann Dawson,-7.011241436004639,Cristina Comencini,-5.0168962478637695,False
+Workforce,director,low,80000,2,Roxann Dawson,-6.951152801513672,Cristina Comencini,-5.638284206390381,False
+Workforce,director,low,90000,2,Roxann Dawson,-5.410402297973633,Cristina Comencini,-4.854857921600342,False
+Workforce,director,low,100000,2,Roxann Dawson,-6.873741626739502,Cristina Comencini,-5.348001480102539,False
+Workforce,director,low,109672,3,Roxann Dawson,-5.593629837036133,Cristina Comencini,-4.884059906005859,False
+Love Letter,director,low,0,0,Kinuyo Tanaka,-11.634464263916016,N. Lingusamy,-11.575850486755371,False
+Love Letter,director,low,10000,0,Kinuyo Tanaka,-5.187832832336426,N. Lingusamy,-5.797102451324463,True
+Love Letter,director,low,20000,0,Kinuyo Tanaka,-6.102595329284668,N. Lingusamy,-5.098469257354736,False
+Love Letter,director,low,30000,0,Kinuyo Tanaka,-5.660490036010742,N. Lingusamy,-5.069279670715332,False
+Love Letter,director,low,40000,1,Kinuyo Tanaka,-6.678678512573242,N. Lingusamy,-5.496562957763672,False
+Love Letter,director,low,50000,2,Kinuyo Tanaka,-5.055698394775391,N. Lingusamy,-5.1136603355407715,True
+Love Letter,director,low,60000,2,Kinuyo Tanaka,-5.969460964202881,N. Lingusamy,-4.582645416259766,False
+Love Letter,director,low,70000,2,Kinuyo Tanaka,-5.750550270080566,N. Lingusamy,-4.910039901733398,False
+Love Letter,director,low,80000,2,Kinuyo Tanaka,-5.591407775878906,N. Lingusamy,-3.9602813720703125,False
+Love Letter,director,low,90000,2,Kinuyo Tanaka,-5.263656139373779,N. Lingusamy,-4.260491371154785,False
+Love Letter,director,low,100000,2,Kinuyo Tanaka,-4.642801284790039,N. Lingusamy,-3.9618523120880127,False
+Love Letter,director,low,109672,2,Kinuyo Tanaka,-5.179317474365234,N. Lingusamy,-4.133567810058594,False
+Interview,producer,low,0,0,Theo van Gogh,-11.684415817260742,Paul Feig,-11.359749794006348,False
+Interview,producer,low,10000,1,Theo van Gogh,-5.2498040199279785,Paul Feig,-5.456171035766602,True
+Interview,producer,low,20000,3,Theo van Gogh,-4.377969741821289,Tod Browning,-4.928194999694824,True
+Interview,producer,low,30000,3,Theo van Gogh,-3.740185022354126,Paul Feig,-5.1106343269348145,True
+Interview,producer,low,40000,3,Theo van Gogh,-3.49387788772583,Paul Feig,-5.414427280426025,True
+Interview,producer,low,50000,4,Theo van Gogh,-3.799971342086792,Paul Feig,-4.372278213500977,True
+Interview,producer,low,60000,4,Theo van Gogh,-3.6741738319396973,Paul Feig,-4.037216663360596,True
+Interview,producer,low,70000,4,Theo van Gogh,-4.042949199676514,Paul Feig,-5.0897135734558105,True
+Interview,producer,low,80000,5,Theo van Gogh,-3.8256773948669434,Paul Feig,-4.3964009284973145,True
+Interview,producer,low,90000,6,Theo van Gogh,-3.63678240776062,Paul Feig,-4.3714165687561035,True
+Interview,producer,low,100000,6,Theo van Gogh,-3.375397205352783,Tod Browning,-4.529452800750732,True
+Interview,producer,low,109672,6,Theo van Gogh,-3.3325653076171875,Paul Feig,-4.756650924682617,True
+Beyond Civilization,genre,low,0,0,non-fiction,-11.566709518432617,fantasy literature,-11.05805492401123,False
+Beyond Civilization,genre,low,10000,0,non-fiction,-5.53129243850708,fantasy literature,-8.136052131652832,True
+Beyond Civilization,genre,low,20000,1,non-fiction,-5.272101402282715,fantasy literature,-7.073243141174316,True
+Beyond Civilization,genre,low,30000,1,non-fiction,-5.07151985168457,fantasy literature,-5.647158622741699,True
+Beyond Civilization,genre,low,40000,1,non-fiction,-4.489831924438477,fantasy literature,-4.900059700012207,True
+Beyond Civilization,genre,low,50000,1,non-fiction,-4.81278657913208,fantasy literature,-6.928414821624756,True
+Beyond Civilization,genre,low,60000,1,non-fiction,-4.704489231109619,fantasy literature,-6.342718601226807,True
+Beyond Civilization,genre,low,70000,1,non-fiction,-5.0202741622924805,fantasy literature,-6.63956880569458,True
+Beyond Civilization,genre,low,80000,2,non-fiction,-5.249960899353027,fantasy literature,-6.346009254455566,True
+Beyond Civilization,genre,low,90000,3,non-fiction,-4.524905681610107,fantasy literature,-5.457990646362305,True
+Beyond Civilization,genre,low,100000,3,non-fiction,-4.88497257232666,fantasy literature,-5.845936298370361,True
+Beyond Civilization,genre,low,109672,4,non-fiction,-4.6317138671875,fantasy literature,-5.649306297302246,True
+Extraterrestrial,screenwriter,low,0,0,Nacho Vigalondo,-11.761895179748535,Rick Berman,-11.403945922851562,False
+Extraterrestrial,screenwriter,low,10000,0,Nacho Vigalondo,-6.767195224761963,Jean-Luc Godard,-3.5715909004211426,False
+Extraterrestrial,screenwriter,low,20000,0,Nacho Vigalondo,-6.422615051269531,Jean-Luc Godard,-2.703842878341675,False
+Extraterrestrial,screenwriter,low,30000,0,Nacho Vigalondo,-7.237603187561035,Jean-Luc Godard,-2.325792074203491,False
+Extraterrestrial,screenwriter,low,40000,0,Nacho Vigalondo,-7.01251745223999,Jean-Luc Godard,-3.072740316390991,False
+Extraterrestrial,screenwriter,low,50000,0,Nacho Vigalondo,-5.642361164093018,Jean-Luc Godard,-1.9076855182647705,False
+Extraterrestrial,screenwriter,low,60000,0,Nacho Vigalondo,-6.149423599243164,Jean-Luc Godard,-2.2694811820983887,False
+Extraterrestrial,screenwriter,low,70000,0,Nacho Vigalondo,-5.972434043884277,Jean-Luc Godard,-2.2975406646728516,False
+Extraterrestrial,screenwriter,low,80000,1,Nacho Vigalondo,-5.787759304046631,Jean-Luc Godard,-2.334113359451294,False
+Extraterrestrial,screenwriter,low,90000,1,Nacho Vigalondo,-6.077095031738281,Jean-Luc Godard,-2.2827398777008057,False
+Extraterrestrial,screenwriter,low,100000,4,Nacho Vigalondo,-5.341193199157715,Jean-Luc Godard,-2.261197090148926,False
+Extraterrestrial,screenwriter,low,109672,4,Nacho Vigalondo,-5.176474571228027,Jean-Luc Godard,-2.3157882690429688,False
+Up Front,genre,low,0,0,hardcore punk,-11.4149169921875,futurepop,-10.862650871276855,False
+Up Front,genre,low,10000,0,hardcore punk,-5.484560489654541,hardstyle,-6.5597991943359375,True
+Up Front,genre,low,20000,1,hardcore punk,-4.67948055267334,hardstyle,-7.142430782318115,True
+Up Front,genre,low,30000,1,hardcore punk,-3.567491054534912,hardstyle,-5.640995025634766,True
+Up Front,genre,low,40000,1,hardcore punk,-3.0770368576049805,hardstyle,-8.401447296142578,True
+Up Front,genre,low,50000,1,hardcore punk,-4.025912284851074,hardstyle,-6.730617523193359,True
+Up Front,genre,low,60000,3,hardcore punk,-3.8419904708862305,hardstyle,-5.906661033630371,True
+Up Front,genre,low,70000,3,hardcore punk,-3.7840237617492676,hardstyle,-6.519127368927002,True
+Up Front,genre,low,80000,4,hardcore punk,-2.5476126670837402,hardstyle,-5.858704090118408,True
+Up Front,genre,low,90000,5,hardcore punk,-2.827760696411133,hardstyle,-6.218134880065918,True
+Up Front,genre,low,100000,5,hardcore punk,-3.447880506515503,hardstyle,-6.3658528327941895,True
+Up Front,genre,low,109672,5,hardcore punk,-3.61527943611145,hardstyle,-6.829331398010254,True
+Great Day,director,low,0,0,Lance Comfort,-11.637016296386719,Scott McGehee,-11.359434127807617,False
+Great Day,director,low,10000,1,Lance Comfort,-8.85072135925293,Scott McGehee,-4.631766319274902,False
+Great Day,director,low,20000,1,Lance Comfort,-7.715643405914307,Scott McGehee,-4.219491958618164,False
+Great Day,director,low,30000,1,Lance Comfort,-8.534637451171875,Scott McGehee,-4.618602752685547,False
+Great Day,director,low,40000,1,Lance Comfort,-7.588872909545898,Scott McGehee,-5.6267290115356445,False
+Great Day,director,low,50000,1,Lance Comfort,-7.821474075317383,Scott McGehee,-4.910233020782471,False
+Great Day,director,low,60000,1,Lance Comfort,-8.777271270751953,Scott McGehee,-4.2389655113220215,False
+Great Day,director,low,70000,2,Lance Comfort,-8.806526184082031,Scott McGehee,-4.670755386352539,False
+Great Day,director,low,80000,4,Lance Comfort,-8.118318557739258,Scott McGehee,-4.707897186279297,False
+Great Day,director,low,90000,5,Lance Comfort,-6.568731307983398,Scott McGehee,-4.4390482902526855,False
+Great Day,director,low,100000,5,Lance Comfort,-6.329366683959961,Scott McGehee,-4.289475917816162,False
+Great Day,director,low,109672,6,Lance Comfort,-7.118568420410156,Scott McGehee,-4.6136908531188965,False
+The Eagle,screenwriter,low,0,0,Leonard Buczkowski,-11.5821533203125,Park Chan-wook,-11.552698135375977,False
+The Eagle,screenwriter,low,10000,1,Leonard Buczkowski,-5.7505998611450195,Park Chan-wook,-4.970379829406738,False
+The Eagle,screenwriter,low,20000,1,Leonard Buczkowski,-5.2604265213012695,Park Chan-wook,-3.6336028575897217,False
+The Eagle,screenwriter,low,30000,1,Leonard Buczkowski,-4.635440349578857,Park Chan-wook,-4.346563339233398,False
+The Eagle,screenwriter,low,40000,1,Leonard Buczkowski,-5.6701202392578125,Park Chan-wook,-4.70037841796875,False
+The Eagle,screenwriter,low,50000,1,Leonard Buczkowski,-4.646897315979004,Park Chan-wook,-4.1472015380859375,False
+The Eagle,screenwriter,low,60000,2,Leonard Buczkowski,-4.591338157653809,Park Chan-wook,-4.161241054534912,False
+The Eagle,screenwriter,low,70000,2,Leonard Buczkowski,-4.744875907897949,Park Chan-wook,-3.4541409015655518,False
+The Eagle,screenwriter,low,80000,2,Leonard Buczkowski,-4.64280366897583,Park Chan-wook,-2.6756949424743652,False
+The Eagle,screenwriter,low,90000,2,Leonard Buczkowski,-4.216386318206787,Park Chan-wook,-3.3424580097198486,False
+The Eagle,screenwriter,low,100000,2,Leonard Buczkowski,-4.790982246398926,Park Chan-wook,-3.273244857788086,False
+The Eagle,screenwriter,low,109672,2,Leonard Buczkowski,-4.504475116729736,Park Chan-wook,-3.0742342472076416,False
+Desire,director,low,0,0,Colleen Murphy,-11.59504222869873,John Bruno,-11.01976203918457,False
+Desire,director,low,10000,0,Colleen Murphy,-5.20848274230957,Gustaf Molander,-5.673120975494385,True
+Desire,director,low,20000,1,Colleen Murphy,-5.482672214508057,Gustaf Molander,-4.146937847137451,False
+Desire,director,low,30000,1,Colleen Murphy,-5.722705841064453,Gustaf Molander,-4.226372241973877,False
+Desire,director,low,40000,1,Colleen Murphy,-6.205197811126709,Gustaf Molander,-5.810695171356201,False
+Desire,director,low,50000,3,Colleen Murphy,-5.591634273529053,Gustaf Molander,-3.8169736862182617,False
+Desire,director,low,60000,4,Colleen Murphy,-5.500646591186523,Gustaf Molander,-4.4865803718566895,False
+Desire,director,low,70000,4,Colleen Murphy,-5.775523662567139,Gustaf Molander,-4.2288103103637695,False
+Desire,director,low,80000,4,Colleen Murphy,-5.000984191894531,Gustaf Molander,-4.145288467407227,False
+Desire,director,low,90000,4,Colleen Murphy,-5.287435531616211,Gustaf Molander,-4.708752155303955,False
+Desire,director,low,100000,4,Colleen Murphy,-5.233148097991943,Gustaf Molander,-3.948937177658081,False
+Desire,director,low,109672,4,Colleen Murphy,-4.473435878753662,Gustaf Molander,-4.226691722869873,False
+Demonia,director,low,0,0,Lucio Fulci,-11.798060417175293,Stephen Frears,-11.693703651428223,False
+Demonia,director,low,10000,0,Lucio Fulci,-4.352270603179932,Sergio Corbucci,-4.1216721534729,False
+Demonia,director,low,20000,0,Lucio Fulci,-5.039716720581055,Sergio Corbucci,-4.487924098968506,False
+Demonia,director,low,30000,1,Lucio Fulci,-3.447042465209961,Sergio Corbucci,-3.934697151184082,True
+Demonia,director,low,40000,1,Lucio Fulci,-3.765515089035034,Sergio Corbucci,-4.286392688751221,True
+Demonia,director,low,50000,1,Lucio Fulci,-3.1016199588775635,Sergio Corbucci,-3.4404468536376953,True
+Demonia,director,low,60000,1,Lucio Fulci,-3.290123462677002,Sergio Corbucci,-3.5109927654266357,True
+Demonia,director,low,70000,2,Lucio Fulci,-4.001995086669922,Sergio Corbucci,-3.5119450092315674,False
+Demonia,director,low,80000,2,Lucio Fulci,-3.6071102619171143,Sergio Corbucci,-3.6336419582366943,True
+Demonia,director,low,90000,4,Lucio Fulci,-3.3807640075683594,Sergio Corbucci,-3.69472599029541,True
+Demonia,director,low,100000,4,Lucio Fulci,-4.223766803741455,Sergio Corbucci,-3.779128313064575,False
+Demonia,director,low,109672,5,Lucio Fulci,-3.8889496326446533,Sergio Corbucci,-3.876405715942383,False
+Current,composer,low,0,0,Devi Sri Prasad,-11.540669441223145,Christopher Tyng,-11.680079460144043,True
+Current,composer,low,10000,0,Devi Sri Prasad,-5.40371036529541,Henry Russell,-5.621718883514404,True
+Current,composer,low,20000,0,Devi Sri Prasad,-4.767543792724609,Christopher Tyng,-6.452917098999023,True
+Current,composer,low,30000,0,Devi Sri Prasad,-3.9539732933044434,Christopher Tyng,-5.6110615730285645,True
+Current,composer,low,40000,1,Devi Sri Prasad,-5.457648277282715,Henry Russell,-6.124353408813477,True
+Current,composer,low,50000,1,Devi Sri Prasad,-4.333019256591797,Christopher Tyng,-6.027040481567383,True
+Current,composer,low,60000,2,Devi Sri Prasad,-4.297397136688232,Christopher Tyng,-6.072652339935303,True
+Current,composer,low,70000,2,Devi Sri Prasad,-4.390788555145264,Christopher Tyng,-5.970927715301514,True
+Current,composer,low,80000,2,Devi Sri Prasad,-3.83575701713562,Christopher Tyng,-6.527553558349609,True
+Current,composer,low,90000,2,Devi Sri Prasad,-3.7753243446350098,Christopher Tyng,-5.6230692863464355,True
+Current,composer,low,100000,3,Devi Sri Prasad,-4.008244514465332,Christopher Tyng,-6.440799713134766,True
+Current,composer,low,109672,5,Devi Sri Prasad,-4.088114261627197,Christopher Tyng,-5.903106212615967,True
+George,father,low,0,0,David VII of Georgia,-11.396636962890625,Surinder Kapoor,-11.716136932373047,True
+George,father,low,10000,2,David VII of Georgia,-5.995819091796875,Surinder Kapoor,-7.485273361206055,True
+George,father,low,20000,2,David VII of Georgia,-5.8024468421936035,Muteesa I,-7.718190670013428,True
+George,father,low,30000,3,David VII of Georgia,-5.019476413726807,Muteesa I,-7.153783798217773,True
+George,father,low,40000,3,David VII of Georgia,-5.086160659790039,Muteesa I,-6.046718120574951,True
+George,father,low,50000,3,David VII of Georgia,-5.404714584350586,Muteesa I,-7.079495429992676,True
+George,father,low,60000,3,David VII of Georgia,-5.039658546447754,Muteesa I,-6.7294769287109375,True
+George,father,low,70000,3,David VII of Georgia,-5.325195789337158,Surinder Kapoor,-6.62635612487793,True
+George,father,low,80000,4,David VII of Georgia,-4.379725933074951,Muteesa I,-5.63651180267334,True
+George,father,low,90000,4,David VII of Georgia,-4.682029724121094,Muteesa I,-5.161342620849609,True
+George,father,low,100000,4,David VII of Georgia,-4.97967004776001,Muteesa I,-5.638666152954102,True
+George,father,low,109672,4,David VII of Georgia,-4.571505546569824,Muteesa I,-4.749967575073242,True
+Early Spring,director,low,0,0,Astrid Henning-Jensen,-11.415356636047363,Anne Wheeler,-11.407184600830078,False
+Early Spring,director,low,10000,1,Astrid Henning-Jensen,-6.114949703216553,Eran Kolirin,-6.9231390953063965,True
+Early Spring,director,low,20000,1,Astrid Henning-Jensen,-4.927506923675537,Anne Wheeler,-7.304571151733398,True
+Early Spring,director,low,30000,1,Astrid Henning-Jensen,-5.174276828765869,Eran Kolirin,-6.218674659729004,True
+Early Spring,director,low,40000,2,Astrid Henning-Jensen,-5.2038044929504395,Eran Kolirin,-6.26922607421875,True
+Early Spring,director,low,50000,2,Astrid Henning-Jensen,-5.365970611572266,Anne Wheeler,-6.879961013793945,True
+Early Spring,director,low,60000,2,Astrid Henning-Jensen,-4.424248218536377,Eran Kolirin,-6.319998264312744,True
+Early Spring,director,low,70000,3,Astrid Henning-Jensen,-4.476769924163818,Eran Kolirin,-6.165438175201416,True
+Early Spring,director,low,80000,4,Astrid Henning-Jensen,-4.484275817871094,Eran Kolirin,-6.6988983154296875,True
+Early Spring,director,low,90000,4,Astrid Henning-Jensen,-4.553807258605957,Eran Kolirin,-6.389359951019287,True
+Early Spring,director,low,100000,4,Astrid Henning-Jensen,-4.5518622398376465,Eran Kolirin,-6.629004001617432,True
+Early Spring,director,low,109672,4,Astrid Henning-Jensen,-4.343100070953369,Eran Kolirin,-6.202414512634277,True
+Cycle,director,low,0,0,Johny Antony,-11.511219024658203,Allan Dwan,-11.61315631866455,True
+Cycle,director,low,10000,1,Johny Antony,-8.251129150390625,Keiichi Hara,-4.3387770652771,False
+Cycle,director,low,20000,2,Johny Antony,-9.078251838684082,Keiichi Hara,-4.050735950469971,False
+Cycle,director,low,30000,3,Johny Antony,-8.227012634277344,Keiichi Hara,-4.011987209320068,False
+Cycle,director,low,40000,4,Johny Antony,-8.16298770904541,Keiichi Hara,-4.2173051834106445,False
+Cycle,director,low,50000,4,Johny Antony,-6.52014684677124,Keiichi Hara,-3.7093710899353027,False
+Cycle,director,low,60000,4,Johny Antony,-7.961514949798584,Keiichi Hara,-3.8731987476348877,False
+Cycle,director,low,70000,4,Johny Antony,-7.885852336883545,Keiichi Hara,-3.7892909049987793,False
+Cycle,director,low,80000,4,Johny Antony,-7.880964756011963,Keiichi Hara,-3.9825549125671387,False
+Cycle,director,low,90000,4,Johny Antony,-7.818523406982422,Keiichi Hara,-3.804600238800049,False
+Cycle,director,low,100000,6,Johny Antony,-7.882753849029541,Keiichi Hara,-3.9349098205566406,False
+Cycle,director,low,109672,6,Johny Antony,-8.208827018737793,Keiichi Hara,-3.6836471557617188,False
+Donor,father,low,0,0,Challedon,-12.020155906677246,David Reivers,-11.745444297790527,False
+Donor,father,low,10000,2,Challedon,-7.016469955444336,David Reivers,-6.603402614593506,False
+Donor,father,low,20000,2,Challedon,-10.073067665100098,Peter Wintonick,-6.855002403259277,False
+Donor,father,low,30000,2,Challedon,-8.816993713378906,David Reivers,-6.634212493896484,False
+Donor,father,low,40000,2,Challedon,-8.492793083190918,David Reivers,-7.470701694488525,False
+Donor,father,low,50000,3,Challedon,-6.730152606964111,Peter Wintonick,-6.8256731033325195,True
+Donor,father,low,60000,3,Challedon,-7.276420593261719,Peter Wintonick,-6.724835395812988,False
+Donor,father,low,70000,3,Challedon,-6.6951727867126465,Peter Wintonick,-7.170320510864258,True
+Donor,father,low,80000,3,Challedon,-6.312078952789307,David Reivers,-6.876872539520264,True
+Donor,father,low,90000,3,Challedon,-6.241176128387451,Peter Wintonick,-6.515693664550781,True
+Donor,father,low,100000,4,Challedon,-6.621883392333984,Peter Wintonick,-6.404999732971191,False
+Donor,father,low,109672,4,Challedon,-6.545281887054443,Peter Wintonick,-6.9514055252075195,True
+Loud as a Whisper,director,low,0,0,Larry Shaw,-11.712545394897461,Aksel Hennie,-11.431323051452637,False
+Loud as a Whisper,director,low,10000,2,Larry Shaw,-7.343327522277832,Kei Fujiwara,-5.016611576080322,False
+Loud as a Whisper,director,low,20000,2,Larry Shaw,-7.456735610961914,Kei Fujiwara,-4.588233947753906,False
+Loud as a Whisper,director,low,30000,2,Larry Shaw,-6.272708415985107,Kei Fujiwara,-4.142596244812012,False
+Loud as a Whisper,director,low,40000,3,Larry Shaw,-7.096199989318848,Kei Fujiwara,-4.7841644287109375,False
+Loud as a Whisper,director,low,50000,4,Larry Shaw,-7.70035982131958,Kei Fujiwara,-3.796477794647217,False
+Loud as a Whisper,director,low,60000,4,Larry Shaw,-6.733485221862793,Kei Fujiwara,-3.7136778831481934,False
+Loud as a Whisper,director,low,70000,4,Larry Shaw,-7.453789234161377,Kei Fujiwara,-3.575120449066162,False
+Loud as a Whisper,director,low,80000,5,Larry Shaw,-6.549477577209473,Kei Fujiwara,-4.027707576751709,False
+Loud as a Whisper,director,low,90000,5,Larry Shaw,-7.000033378601074,Kei Fujiwara,-3.6037521362304688,False
+Loud as a Whisper,director,low,100000,5,Larry Shaw,-7.043424129486084,Kei Fujiwara,-3.602039337158203,False
+Loud as a Whisper,director,low,109672,6,Larry Shaw,-6.820343971252441,Kei Fujiwara,-3.663843870162964,False
+The System,director,low,0,0,Lewis Seiler,-11.500743865966797,Peter Hyams,-11.307463645935059,False
+The System,director,low,10000,0,Lewis Seiler,-6.523708343505859,Pratibha Parmar,-4.790143966674805,False
+The System,director,low,20000,1,Lewis Seiler,-6.441699504852295,Pratibha Parmar,-4.118659019470215,False
+The System,director,low,30000,1,Lewis Seiler,-5.632811069488525,Pratibha Parmar,-3.384874105453491,False
+The System,director,low,40000,1,Lewis Seiler,-6.79676628112793,Pratibha Parmar,-3.932506561279297,False
+The System,director,low,50000,1,Lewis Seiler,-6.5023274421691895,Pratibha Parmar,-3.4490621089935303,False
+The System,director,low,60000,1,Lewis Seiler,-6.133531093597412,Pratibha Parmar,-3.5129783153533936,False
+The System,director,low,70000,1,Lewis Seiler,-6.285228252410889,Pratibha Parmar,-3.5689477920532227,False
+The System,director,low,80000,1,Lewis Seiler,-5.545176029205322,Pratibha Parmar,-3.4709110260009766,False
+The System,director,low,90000,2,Lewis Seiler,-6.471100330352783,Pratibha Parmar,-3.4144890308380127,False
+The System,director,low,100000,2,Lewis Seiler,-5.50942850112915,Pratibha Parmar,-3.3284904956817627,False
+The System,director,low,109672,2,Lewis Seiler,-5.92993688583374,Pratibha Parmar,-3.72145938873291,False
+Bread and Circuses,director,low,0,0,Ralph Senensky,-12.12078857421875,Praveen Gandhi,-11.423563003540039,False
+Bread and Circuses,director,low,10000,0,Ralph Senensky,-7.306842803955078,Praveen Gandhi,-5.424793243408203,False
+Bread and Circuses,director,low,20000,0,Ralph Senensky,-6.7917680740356445,Praveen Gandhi,-4.857217311859131,False
+Bread and Circuses,director,low,30000,0,Ralph Senensky,-7.898321151733398,Praveen Gandhi,-4.640695571899414,False
+Bread and Circuses,director,low,40000,0,Ralph Senensky,-6.520737171173096,Praveen Gandhi,-5.238408088684082,False
+Bread and Circuses,director,low,50000,0,Ralph Senensky,-6.5856122970581055,Praveen Gandhi,-5.059383392333984,False
+Bread and Circuses,director,low,60000,0,Ralph Senensky,-6.407759666442871,Praveen Gandhi,-4.438841819763184,False
+Bread and Circuses,director,low,70000,1,Ralph Senensky,-5.911118507385254,Praveen Gandhi,-4.965997695922852,False
+Bread and Circuses,director,low,80000,1,Ralph Senensky,-5.647590160369873,Praveen Gandhi,-4.861388206481934,False
+Bread and Circuses,director,low,90000,1,Ralph Senensky,-6.265807628631592,Praveen Gandhi,-4.5052900314331055,False
+Bread and Circuses,director,low,100000,1,Ralph Senensky,-6.612194538116455,Praveen Gandhi,-4.492620468139648,False
+Bread and Circuses,director,low,109672,1,Ralph Senensky,-6.185200214385986,Praveen Gandhi,-4.813897132873535,False
+If I Ever,genre,low,0,0,synth-pop,-11.967628479003906,indie pop,-11.360550880432129,False
+If I Ever,genre,low,10000,0,synth-pop,-6.805426120758057,indie pop,-6.126345634460449,False
+If I Ever,genre,low,20000,1,synth-pop,-8.118291854858398,indie pop,-5.388249397277832,False
+If I Ever,genre,low,30000,1,synth-pop,-7.401303291320801,indie pop,-5.134486675262451,False
+If I Ever,genre,low,40000,1,synth-pop,-5.823947429656982,Cantopop,-5.025545120239258,False
+If I Ever,genre,low,50000,1,synth-pop,-7.075508117675781,Cantopop,-5.311615467071533,False
+If I Ever,genre,low,60000,1,synth-pop,-6.169458866119385,indie pop,-5.17241096496582,False
+If I Ever,genre,low,70000,1,synth-pop,-5.663800239562988,indie pop,-4.440467834472656,False
+If I Ever,genre,low,80000,1,synth-pop,-4.700985908508301,indie pop,-4.041084289550781,False
+If I Ever,genre,low,90000,1,synth-pop,-5.184384346008301,indie pop,-3.710378646850586,False
+If I Ever,genre,low,100000,1,synth-pop,-5.169630527496338,indie pop,-4.048640727996826,False
+If I Ever,genre,low,109672,1,synth-pop,-5.508769512176514,indie pop,-4.956523895263672,False
+Mobile Home,genre,low,0,0,comedy-drama,-12.191757202148438,marine art,-11.574121475219727,False
+Mobile Home,genre,low,10000,0,comedy-drama,-5.615699768066406,marine art,-8.813553810119629,True
+Mobile Home,genre,low,20000,1,comedy-drama,-5.717826843261719,marine art,-8.426957130432129,True
+Mobile Home,genre,low,30000,1,comedy-drama,-4.719671726226807,marine art,-7.497917175292969,True
+Mobile Home,genre,low,40000,1,comedy-drama,-3.781111717224121,marine art,-6.634770393371582,True
+Mobile Home,genre,low,50000,1,comedy-drama,-4.807645320892334,marine art,-8.774950981140137,True
+Mobile Home,genre,low,60000,1,comedy-drama,-4.360843181610107,marine art,-6.766549110412598,True
+Mobile Home,genre,low,70000,1,comedy-drama,-4.430912494659424,marine art,-8.344030380249023,True
+Mobile Home,genre,low,80000,1,comedy-drama,-4.134405136108398,tactical shooter,-7.1326704025268555,True
+Mobile Home,genre,low,90000,2,comedy-drama,-4.3746466636657715,tactical shooter,-7.953189849853516,True
+Mobile Home,genre,low,100000,3,comedy-drama,-4.547342777252197,marine art,-9.001947402954102,True
+Mobile Home,genre,low,109672,3,comedy-drama,-4.772400379180908,tactical shooter,-8.295194625854492,True
+Le Mentor,director,low,0,0,Jean-Pierre Mocky,-11.706960678100586,Art Linson,-12.151867866516113,True
+Le Mentor,director,low,10000,1,Jean-Pierre Mocky,-4.338518142700195,Sally Potter,-7.323731422424316,True
+Le Mentor,director,low,20000,1,Jean-Pierre Mocky,-3.391380786895752,Sally Potter,-8.53228759765625,True
+Le Mentor,director,low,30000,1,Jean-Pierre Mocky,-4.683582305908203,Art Linson,-6.904855251312256,True
+Le Mentor,director,low,40000,1,Jean-Pierre Mocky,-5.027586936950684,Art Linson,-8.402798652648926,True
+Le Mentor,director,low,50000,1,Jean-Pierre Mocky,-4.100384712219238,Art Linson,-8.478371620178223,True
+Le Mentor,director,low,60000,1,Jean-Pierre Mocky,-3.94024395942688,Sally Potter,-8.492115020751953,True
+Le Mentor,director,low,70000,1,Jean-Pierre Mocky,-3.2505478858947754,Art Linson,-8.686787605285645,True
+Le Mentor,director,low,80000,1,Jean-Pierre Mocky,-3.277940034866333,Sally Potter,-9.445262908935547,True
+Le Mentor,director,low,90000,1,Jean-Pierre Mocky,-2.3339133262634277,Art Linson,-8.937076568603516,True
+Le Mentor,director,low,100000,1,Jean-Pierre Mocky,-2.289138078689575,Sally Potter,-9.498920440673828,True
+Le Mentor,director,low,109672,1,Jean-Pierre Mocky,-3.3007335662841797,Art Linson,-8.824006080627441,True
+In Your Eyes,screenwriter,low,0,0,Joss Whedon,-11.670088768005371,Nikhil Advani,-11.436474800109863,False
+In Your Eyes,screenwriter,low,10000,1,Joss Whedon,-2.3009135723114014,Alex Haley,-6.297445297241211,True
+In Your Eyes,screenwriter,low,20000,1,Joss Whedon,-2.6735434532165527,Nikhil Advani,-6.879134654998779,True
+In Your Eyes,screenwriter,low,30000,2,Joss Whedon,-2.0839760303497314,Alex Haley,-5.714189529418945,True
+In Your Eyes,screenwriter,low,40000,3,Joss Whedon,-1.8719990253448486,Alex Haley,-5.8512678146362305,True
+In Your Eyes,screenwriter,low,50000,3,Joss Whedon,-1.8625637292861938,Nikhil Advani,-4.941628456115723,True
+In Your Eyes,screenwriter,low,60000,3,Joss Whedon,-2.2602672576904297,Nikhil Advani,-5.506378650665283,True
+In Your Eyes,screenwriter,low,70000,3,Joss Whedon,-1.7697105407714844,Nikhil Advani,-4.374959945678711,True
+In Your Eyes,screenwriter,low,80000,3,Joss Whedon,-2.2427315711975098,Nikhil Advani,-4.796945571899414,True
+In Your Eyes,screenwriter,low,90000,3,Joss Whedon,-1.8928896188735962,Nikhil Advani,-5.306053161621094,True
+In Your Eyes,screenwriter,low,100000,5,Joss Whedon,-1.9283201694488525,Nikhil Advani,-4.954463481903076,True
+In Your Eyes,screenwriter,low,109672,5,Joss Whedon,-1.980181336402893,Nikhil Advani,-4.061522960662842,True
+Think About You,composer,low,0,0,Izzy Stradlin,-11.775632858276367,Wiz Khalifa,-11.446304321289062,False
+Think About You,composer,low,10000,1,Izzy Stradlin,-4.144124507904053,Wiz Khalifa,-4.1323561668396,False
+Think About You,composer,low,20000,2,Izzy Stradlin,-4.2627854347229,Wiz Khalifa,-3.4858317375183105,False
+Think About You,composer,low,30000,2,Izzy Stradlin,-3.679719924926758,Wiz Khalifa,-4.131778717041016,True
+Think About You,composer,low,40000,2,Izzy Stradlin,-3.8611323833465576,Wiz Khalifa,-3.840723752975464,False
+Think About You,composer,low,50000,2,Izzy Stradlin,-4.523451805114746,Wiz Khalifa,-3.0121748447418213,False
+Think About You,composer,low,60000,2,Izzy Stradlin,-3.3192169666290283,Wiz Khalifa,-3.7412829399108887,True
+Think About You,composer,low,70000,2,Izzy Stradlin,-3.884052276611328,Wiz Khalifa,-3.8312766551971436,False
+Think About You,composer,low,80000,2,Izzy Stradlin,-3.090512275695801,Wiz Khalifa,-3.9808449745178223,True
+Think About You,composer,low,90000,2,Izzy Stradlin,-3.5982463359832764,Wiz Khalifa,-3.586181879043579,False
+Think About You,composer,low,100000,2,Izzy Stradlin,-3.4170773029327393,Wiz Khalifa,-3.2947797775268555,False
+Think About You,composer,low,109672,2,Izzy Stradlin,-2.716634750366211,Wiz Khalifa,-3.6063621044158936,True
+The Cube,director,low,0,0,Jim Henson,-11.531842231750488,Bruno Barreto,-11.859129905700684,True
+The Cube,director,low,10000,0,Jim Henson,-3.9784297943115234,Bruno Barreto,-5.003747463226318,True
+The Cube,director,low,20000,1,Jim Henson,-4.524074077606201,Wolfgang Petersen,-5.220930099487305,True
+The Cube,director,low,30000,2,Jim Henson,-3.3537979125976562,Wolfgang Petersen,-4.24432897567749,True
+The Cube,director,low,40000,2,Jim Henson,-3.9510762691497803,Bruno Barreto,-4.35281229019165,True
+The Cube,director,low,50000,2,Jim Henson,-3.579561233520508,Wolfgang Petersen,-4.625545978546143,True
+The Cube,director,low,60000,3,Jim Henson,-3.8713951110839844,Bruno Barreto,-4.15376615524292,True
+The Cube,director,low,70000,3,Jim Henson,-3.88381028175354,Bruno Barreto,-4.049281597137451,True
+The Cube,director,low,80000,5,Jim Henson,-3.8829517364501953,Bruno Barreto,-4.143976211547852,True
+The Cube,director,low,90000,5,Jim Henson,-3.9497716426849365,Bruno Barreto,-4.3950724601745605,True
+The Cube,director,low,100000,5,Jim Henson,-4.120153903961182,Bruno Barreto,-4.725856304168701,True
+The Cube,director,low,109672,5,Jim Henson,-4.169575214385986,Wolfgang Petersen,-4.375236511230469,True
+Francesco Maria Farnese,father,low,0,0,Ranuccio I Farnese,-11.611452102661133,Picus,-11.834331512451172,True
+Francesco Maria Farnese,father,low,10000,1,Ranuccio I Farnese,-3.0894641876220703,Picus,-11.523676872253418,True
+Francesco Maria Farnese,father,low,20000,1,Ranuccio I Farnese,-2.5736618041992188,Picus,-8.937273979187012,True
+Francesco Maria Farnese,father,low,30000,1,Ranuccio I Farnese,-2.5402796268463135,Picus,-10.298690795898438,True
+Francesco Maria Farnese,father,low,40000,1,Ranuccio I Farnese,-2.9308764934539795,Picus,-9.029838562011719,True
+Francesco Maria Farnese,father,low,50000,1,Ranuccio I Farnese,-2.5671045780181885,Picus,-10.682512283325195,True
+Francesco Maria Farnese,father,low,60000,1,Ranuccio I Farnese,-2.021768808364868,Picus,-9.436824798583984,True
+Francesco Maria Farnese,father,low,70000,2,Ranuccio I Farnese,-2.23936128616333,Picus,-9.372617721557617,True
+Francesco Maria Farnese,father,low,80000,2,Ranuccio I Farnese,-1.9889434576034546,Picus,-9.404581069946289,True
+Francesco Maria Farnese,father,low,90000,2,Ranuccio I Farnese,-2.0217056274414062,Picus,-11.023846626281738,True
+Francesco Maria Farnese,father,low,100000,4,Ranuccio I Farnese,-1.9095714092254639,Picus,-11.882362365722656,True
+Francesco Maria Farnese,father,low,109672,4,Ranuccio I Farnese,-1.779157280921936,Picus,-11.170021057128906,True
+Arthur Herzog,father,mid,0,0,"Arthur Herzog, Jr.",-11.805712699890137,Vice Regent,-11.506510734558105,False
+Arthur Herzog,father,mid,10000,0,"Arthur Herzog, Jr.",-1.6730622053146362,Fred C. Koch,-5.2100830078125,True
+Arthur Herzog,father,mid,20000,0,"Arthur Herzog, Jr.",-1.751212477684021,Fred C. Koch,-5.035479545593262,True
+Arthur Herzog,father,mid,30000,0,"Arthur Herzog, Jr.",-1.9921809434890747,Fred C. Koch,-5.623233795166016,True
+Arthur Herzog,father,mid,40000,1,"Arthur Herzog, Jr.",-2.202364921569824,Vice Regent,-5.426558017730713,True
+Arthur Herzog,father,mid,50000,2,"Arthur Herzog, Jr.",-2.2667059898376465,Fred C. Koch,-5.726577281951904,True
+Arthur Herzog,father,mid,60000,3,"Arthur Herzog, Jr.",-2.4578254222869873,Vice Regent,-5.1832661628723145,True
+Arthur Herzog,father,mid,70000,3,"Arthur Herzog, Jr.",-2.7095415592193604,Vice Regent,-5.263271808624268,True
+Arthur Herzog,father,mid,80000,5,"Arthur Herzog, Jr.",-2.6978867053985596,Vice Regent,-5.291154861450195,True
+Arthur Herzog,father,mid,90000,5,"Arthur Herzog, Jr.",-2.512094497680664,Fred C. Koch,-5.389925003051758,True
+Arthur Herzog,father,mid,100000,7,"Arthur Herzog, Jr.",-2.5752718448638916,Fred C. Koch,-5.056360244750977,True
+Arthur Herzog,father,mid,109672,7,"Arthur Herzog, Jr.",-2.6337974071502686,Vice Regent,-5.420106410980225,True
+Warrior,genre,mid,0,0,fighting game,-11.86171817779541,fiction,-11.411782264709473,False
+Warrior,genre,mid,10000,1,fighting game,-6.992496490478516,fiction,-8.442219734191895,True
+Warrior,genre,mid,20000,2,fighting game,-6.022982597351074,adventure game,-6.688863754272461,True
+Warrior,genre,mid,30000,2,fighting game,-6.130194664001465,adventure game,-7.059051036834717,True
+Warrior,genre,mid,40000,2,fighting game,-5.847160816192627,adventure game,-5.123874664306641,False
+Warrior,genre,mid,50000,3,fighting game,-6.16143798828125,adventure game,-7.556885719299316,True
+Warrior,genre,mid,60000,3,fighting game,-5.668957710266113,adventure game,-6.717394828796387,True
+Warrior,genre,mid,70000,4,fighting game,-6.615757465362549,adventure game,-6.9852142333984375,True
+Warrior,genre,mid,80000,5,fighting game,-6.065321922302246,adventure game,-5.852547645568848,False
+Warrior,genre,mid,90000,7,fighting game,-5.974958419799805,adventure game,-5.976990699768066,True
+Warrior,genre,mid,100000,7,fighting game,-7.111392498016357,adventure game,-6.614646911621094,False
+Warrior,genre,mid,109672,7,fighting game,-6.344782829284668,adventure game,-5.973442077636719,False
+Trance,producer,mid,0,0,Danny Boyle,-11.830814361572266,David Devine,-11.420262336730957,False
+Trance,producer,mid,10000,7,Danny Boyle,-7.7090020179748535,David Devine,-4.535177230834961,False
+Trance,producer,mid,20000,11,Danny Boyle,-6.091289043426514,David Devine,-4.7245073318481445,False
+Trance,producer,mid,30000,13,Danny Boyle,-6.689998626708984,David Devine,-4.131772518157959,False
+Trance,producer,mid,40000,13,Danny Boyle,-4.876898288726807,Anthony Minghella,-3.7499301433563232,False
+Trance,producer,mid,50000,14,Danny Boyle,-5.568716049194336,Anthony Minghella,-4.08096170425415,False
+Trance,producer,mid,60000,14,Danny Boyle,-5.732247352600098,David Devine,-4.0454325675964355,False
+Trance,producer,mid,70000,15,Danny Boyle,-6.065723419189453,Anthony Minghella,-4.754133701324463,False
+Trance,producer,mid,80000,16,Danny Boyle,-6.098257064819336,David Devine,-4.542741775512695,False
+Trance,producer,mid,90000,17,Danny Boyle,-6.284525394439697,Anthony Minghella,-4.793880462646484,False
+Trance,producer,mid,100000,17,Danny Boyle,-5.938323020935059,Anthony Minghella,-4.124659061431885,False
+Trance,producer,mid,109672,18,Danny Boyle,-6.218303680419922,David Devine,-4.386409282684326,False
+Sacrifice,genre,mid,0,0,thrash metal,-11.432597160339355,punk rock,-11.07451057434082,False
+Sacrifice,genre,mid,10000,0,thrash metal,-3.739508867263794,punk rock,-5.197402000427246,True
+Sacrifice,genre,mid,20000,2,thrash metal,-4.941163539886475,punk rock,-4.972628593444824,True
+Sacrifice,genre,mid,30000,5,thrash metal,-3.3577489852905273,punk rock,-4.637699604034424,True
+Sacrifice,genre,mid,40000,7,thrash metal,-4.940158843994141,punk rock,-5.554945468902588,True
+Sacrifice,genre,mid,50000,10,thrash metal,-4.626695156097412,farce,-5.110174179077148,True
+Sacrifice,genre,mid,60000,12,thrash metal,-3.977471351623535,punk rock,-6.3105292320251465,True
+Sacrifice,genre,mid,70000,14,thrash metal,-3.4033377170562744,punk rock,-4.935634613037109,True
+Sacrifice,genre,mid,80000,17,thrash metal,-3.6895620822906494,punk rock,-5.537780284881592,True
+Sacrifice,genre,mid,90000,18,thrash metal,-4.151710510253906,punk rock,-4.968120098114014,True
+Sacrifice,genre,mid,100000,21,thrash metal,-3.665088653564453,punk rock,-5.401587009429932,True
+Sacrifice,genre,mid,109672,22,thrash metal,-3.892132520675659,punk rock,-5.419392108917236,True
+Recess,producer,mid,0,0,Skrillex,-11.970024108886719,Jean-Pierre Mocky,-11.479620933532715,False
+Recess,producer,mid,10000,2,Skrillex,-5.117003917694092,Jean-Pierre Mocky,-4.914788722991943,False
+Recess,producer,mid,20000,3,Skrillex,-5.8185858726501465,Jean-Pierre Mocky,-4.115655899047852,False
+Recess,producer,mid,30000,4,Skrillex,-4.634482383728027,B. Nagi Reddy,-4.617483139038086,False
+Recess,producer,mid,40000,6,Skrillex,-5.875213623046875,B. Nagi Reddy,-4.811117172241211,False
+Recess,producer,mid,50000,7,Skrillex,-4.14489221572876,B. Nagi Reddy,-4.542198181152344,True
+Recess,producer,mid,60000,11,Skrillex,-3.85412335395813,Jean-Pierre Mocky,-4.510777473449707,True
+Recess,producer,mid,70000,11,Skrillex,-4.5893988609313965,Jean-Pierre Mocky,-3.7064833641052246,False
+Recess,producer,mid,80000,13,Skrillex,-4.687383651733398,Jean-Pierre Mocky,-3.9403319358825684,False
+Recess,producer,mid,90000,15,Skrillex,-4.453311920166016,Jean-Pierre Mocky,-3.119039535522461,False
+Recess,producer,mid,100000,17,Skrillex,-4.6037445068359375,Jean-Pierre Mocky,-2.877279758453369,False
+Recess,producer,mid,109672,17,Skrillex,-4.849056243896484,Jean-Pierre Mocky,-3.9004578590393066,False
+Ninnindale,composer,mid,0,0,Mani Sharma,-11.908096313476562,Smokey Robinson,-11.674288749694824,False
+Ninnindale,composer,mid,10000,0,Mani Sharma,-4.943014144897461,Smokey Robinson,-4.608691215515137,False
+Ninnindale,composer,mid,20000,0,Mani Sharma,-5.499518871307373,Smokey Robinson,-4.342024326324463,False
+Ninnindale,composer,mid,30000,0,Mani Sharma,-4.993592739105225,Smokey Robinson,-4.339033126831055,False
+Ninnindale,composer,mid,40000,1,Mani Sharma,-5.953647613525391,Smokey Robinson,-4.835565090179443,False
+Ninnindale,composer,mid,50000,2,Mani Sharma,-5.64447546005249,Smokey Robinson,-3.1286747455596924,False
+Ninnindale,composer,mid,60000,2,Mani Sharma,-5.376842021942139,Smokey Robinson,-4.169735908508301,False
+Ninnindale,composer,mid,70000,4,Mani Sharma,-4.686862468719482,Smokey Robinson,-4.083054542541504,False
+Ninnindale,composer,mid,80000,6,Mani Sharma,-4.856655597686768,Smokey Robinson,-3.3692069053649902,False
+Ninnindale,composer,mid,90000,7,Mani Sharma,-4.866331577301025,Smokey Robinson,-3.846759557723999,False
+Ninnindale,composer,mid,100000,8,Mani Sharma,-5.54815149307251,Smokey Robinson,-4.33295202255249,False
+Ninnindale,composer,mid,109672,8,Mani Sharma,-5.474172592163086,Smokey Robinson,-4.424472808837891,False
+Tabloid,director,mid,0,0,Errol Morris,-11.333649635314941,Mathieu Kassovitz,-11.99402904510498,True
+Tabloid,director,mid,10000,0,Errol Morris,-6.567332744598389,Katsuhiro Otomo,-4.464412689208984,False
+Tabloid,director,mid,20000,0,Errol Morris,-5.828033447265625,Katsuhiro Otomo,-4.272489070892334,False
+Tabloid,director,mid,30000,0,Errol Morris,-4.534931659698486,Katsuhiro Otomo,-4.087776184082031,False
+Tabloid,director,mid,40000,0,Errol Morris,-4.767272472381592,Katsuhiro Otomo,-5.313348293304443,True
+Tabloid,director,mid,50000,0,Errol Morris,-4.046262741088867,Katsuhiro Otomo,-4.247560977935791,True
+Tabloid,director,mid,60000,1,Errol Morris,-4.565508842468262,Katsuhiro Otomo,-4.431942462921143,False
+Tabloid,director,mid,70000,4,Errol Morris,-5.052420139312744,Mathieu Kassovitz,-3.457430839538574,False
+Tabloid,director,mid,80000,4,Errol Morris,-4.25476598739624,Katsuhiro Otomo,-3.3558506965637207,False
+Tabloid,director,mid,90000,5,Errol Morris,-4.653493404388428,Katsuhiro Otomo,-3.953112840652466,False
+Tabloid,director,mid,100000,5,Errol Morris,-4.600467205047607,Mathieu Kassovitz,-3.3210537433624268,False
+Tabloid,director,mid,109672,8,Errol Morris,-5.198604106903076,Katsuhiro Otomo,-3.3479347229003906,False
+The Court,genre,mid,0,0,legal drama,-11.50120735168457,death metal,-10.781045913696289,False
+The Court,genre,mid,10000,2,legal drama,-6.941236972808838,death metal,-6.767058372497559,False
+The Court,genre,mid,20000,2,legal drama,-8.542865753173828,death metal,-6.175694465637207,False
+The Court,genre,mid,30000,2,legal drama,-6.865304946899414,death metal,-5.257096767425537,False
+The Court,genre,mid,40000,2,legal drama,-6.449613571166992,death metal,-5.573088645935059,False
+The Court,genre,mid,50000,3,legal drama,-6.541399002075195,death metal,-5.698033332824707,False
+The Court,genre,mid,60000,5,legal drama,-6.531108379364014,death metal,-7.262429237365723,True
+The Court,genre,mid,70000,5,legal drama,-7.054077625274658,death metal,-4.943795680999756,False
+The Court,genre,mid,80000,6,legal drama,-6.311426162719727,death metal,-5.581838130950928,False
+The Court,genre,mid,90000,7,legal drama,-6.3089399337768555,death metal,-4.763394355773926,False
+The Court,genre,mid,100000,7,legal drama,-7.360144138336182,death metal,-5.37819242477417,False
+The Court,genre,mid,109672,8,legal drama,-6.581793785095215,death metal,-5.4402899742126465,False
+Royal Pudding,director,mid,0,0,Trey Parker,-11.529581069946289,Mehul Kumar,-11.508645057678223,False
+Royal Pudding,director,mid,10000,1,Trey Parker,-6.376261234283447,Kazuyoshi Kumakiri,-5.628824234008789,False
+Royal Pudding,director,mid,20000,2,Trey Parker,-7.422090530395508,Kazuyoshi Kumakiri,-6.331381320953369,False
+Royal Pudding,director,mid,30000,3,Trey Parker,-5.398372650146484,Kazuyoshi Kumakiri,-5.1085076332092285,False
+Royal Pudding,director,mid,40000,3,Trey Parker,-7.093277454376221,Kazuyoshi Kumakiri,-5.64635705947876,False
+Royal Pudding,director,mid,50000,4,Trey Parker,-6.376078128814697,Kazuyoshi Kumakiri,-4.375299453735352,False
+Royal Pudding,director,mid,60000,6,Trey Parker,-6.284912109375,Kazuyoshi Kumakiri,-5.216856479644775,False
+Royal Pudding,director,mid,70000,8,Trey Parker,-7.962162971496582,Kazuyoshi Kumakiri,-4.9475274085998535,False
+Royal Pudding,director,mid,80000,8,Trey Parker,-7.370082855224609,Kazuyoshi Kumakiri,-5.089165210723877,False
+Royal Pudding,director,mid,90000,9,Trey Parker,-7.695343017578125,Kazuyoshi Kumakiri,-5.117717742919922,False
+Royal Pudding,director,mid,100000,9,Trey Parker,-7.573897361755371,Kazuyoshi Kumakiri,-5.174724102020264,False
+Royal Pudding,director,mid,109672,9,Trey Parker,-7.579390048980713,Kazuyoshi Kumakiri,-5.158435344696045,False
+The Actress,screenwriter,mid,0,0,Ruth Gordon,-12.321475982666016,Jerome Bixby,-11.759230613708496,False
+The Actress,screenwriter,mid,10000,1,Ruth Gordon,-6.772888660430908,Jerome Bixby,-5.149079322814941,False
+The Actress,screenwriter,mid,20000,2,Ruth Gordon,-6.23827600479126,Clive Barker,-5.289262294769287,False
+The Actress,screenwriter,mid,30000,2,Ruth Gordon,-6.506197929382324,Clive Barker,-4.41236686706543,False
+The Actress,screenwriter,mid,40000,2,Ruth Gordon,-6.80755090713501,Clive Barker,-3.164372682571411,False
+The Actress,screenwriter,mid,50000,4,Ruth Gordon,-5.678844928741455,Clive Barker,-4.30083703994751,False
+The Actress,screenwriter,mid,60000,5,Ruth Gordon,-6.03974723815918,Clive Barker,-3.390192747116089,False
+The Actress,screenwriter,mid,70000,7,Ruth Gordon,-5.915590763092041,Clive Barker,-3.282357931137085,False
+The Actress,screenwriter,mid,80000,7,Ruth Gordon,-6.464364051818848,Clive Barker,-3.405625581741333,False
+The Actress,screenwriter,mid,90000,9,Ruth Gordon,-6.092348575592041,Clive Barker,-3.381317138671875,False
+The Actress,screenwriter,mid,100000,10,Ruth Gordon,-5.8556952476501465,Clive Barker,-3.626983642578125,False
+The Actress,screenwriter,mid,109672,12,Ruth Gordon,-5.966675281524658,Clive Barker,-3.5609045028686523,False
+Donsol,screenwriter,mid,0,0,"Adolfo Alix, Jr.",-11.518333435058594,Angela Kang,-11.650077819824219,True
+Donsol,screenwriter,mid,10000,2,"Adolfo Alix, Jr.",-4.648488998413086,Andrew Bujalski,-6.120553016662598,True
+Donsol,screenwriter,mid,20000,3,"Adolfo Alix, Jr.",-4.421449661254883,Andrew Bujalski,-5.123287200927734,True
+Donsol,screenwriter,mid,30000,4,"Adolfo Alix, Jr.",-3.8896336555480957,Andrew Bujalski,-5.451708793640137,True
+Donsol,screenwriter,mid,40000,4,"Adolfo Alix, Jr.",-4.132811546325684,Andrew Bujalski,-6.444435119628906,True
+Donsol,screenwriter,mid,50000,4,"Adolfo Alix, Jr.",-3.5732667446136475,Andrew Bujalski,-4.669956207275391,True
+Donsol,screenwriter,mid,60000,4,"Adolfo Alix, Jr.",-3.8912253379821777,Andrew Bujalski,-3.7421276569366455,False
+Donsol,screenwriter,mid,70000,5,"Adolfo Alix, Jr.",-3.9502477645874023,Andrew Bujalski,-4.421975135803223,True
+Donsol,screenwriter,mid,80000,6,"Adolfo Alix, Jr.",-4.183223724365234,Andrew Bujalski,-4.531430244445801,True
+Donsol,screenwriter,mid,90000,8,"Adolfo Alix, Jr.",-3.7288436889648438,Andrew Bujalski,-4.4737138748168945,True
+Donsol,screenwriter,mid,100000,8,"Adolfo Alix, Jr.",-3.9854888916015625,Andrew Bujalski,-4.628954887390137,True
+Donsol,screenwriter,mid,109672,9,"Adolfo Alix, Jr.",-3.8885841369628906,Andrew Bujalski,-3.997608184814453,True
+Time Out,screenwriter,mid,0,0,Laurent Cantet,-12.134203910827637,David Butler,-11.72508430480957,False
+Time Out,screenwriter,mid,10000,2,Laurent Cantet,-9.123995780944824,Bryan Elsley,-5.52490234375,False
+Time Out,screenwriter,mid,20000,3,Laurent Cantet,-9.750765800476074,Bryan Elsley,-6.562315464019775,False
+Time Out,screenwriter,mid,30000,4,Laurent Cantet,-9.155438423156738,David Butler,-5.601168632507324,False
+Time Out,screenwriter,mid,40000,6,Laurent Cantet,-8.855143547058105,Bryan Elsley,-5.871803283691406,False
+Time Out,screenwriter,mid,50000,7,Laurent Cantet,-9.101103782653809,Bryan Elsley,-5.713081359863281,False
+Time Out,screenwriter,mid,60000,8,Laurent Cantet,-7.389808654785156,Bryan Elsley,-5.1565961837768555,False
+Time Out,screenwriter,mid,70000,9,Laurent Cantet,-7.5589118003845215,Bryan Elsley,-4.754115104675293,False
+Time Out,screenwriter,mid,80000,10,Laurent Cantet,-8.275819778442383,Bryan Elsley,-4.933834075927734,False
+Time Out,screenwriter,mid,90000,10,Laurent Cantet,-7.575963973999023,Bryan Elsley,-4.956226348876953,False
+Time Out,screenwriter,mid,100000,11,Laurent Cantet,-7.708346843719482,Bryan Elsley,-5.169105529785156,False
+Time Out,screenwriter,mid,109672,12,Laurent Cantet,-6.713350772857666,Bryan Elsley,-5.3874359130859375,False
+Army Daze,screenwriter,mid,0,0,Michael Chiang,-11.779441833496094,Norman Krasna,-11.44386100769043,False
+Army Daze,screenwriter,mid,10000,1,Michael Chiang,-5.8452324867248535,Norman Krasna,-5.554394721984863,False
+Army Daze,screenwriter,mid,20000,1,Michael Chiang,-5.732914447784424,Norman Krasna,-5.822696685791016,True
+Army Daze,screenwriter,mid,30000,3,Michael Chiang,-5.75464391708374,Norman Krasna,-5.8384575843811035,True
+Army Daze,screenwriter,mid,40000,3,Michael Chiang,-5.432167053222656,Norman Krasna,-5.823739051818848,True
+Army Daze,screenwriter,mid,50000,4,Michael Chiang,-5.646020889282227,Norman Krasna,-5.180492877960205,False
+Army Daze,screenwriter,mid,60000,6,Michael Chiang,-4.972893714904785,Norman Krasna,-4.92226505279541,False
+Army Daze,screenwriter,mid,70000,8,Michael Chiang,-5.050677299499512,Norman Krasna,-4.587739944458008,False
+Army Daze,screenwriter,mid,80000,10,Michael Chiang,-5.505405426025391,Norman Krasna,-4.611001014709473,False
+Army Daze,screenwriter,mid,90000,14,Michael Chiang,-5.574832439422607,Norman Krasna,-4.961389541625977,False
+Army Daze,screenwriter,mid,100000,14,Michael Chiang,-5.624314785003662,Norman Krasna,-4.675881385803223,False
+Army Daze,screenwriter,mid,109672,14,Michael Chiang,-5.550477504730225,Norman Krasna,-4.474263668060303,False
+Bullet to the Head,genre,mid,0,0,action film,-11.644248962402344,power metal,-11.505461692810059,False
+Bullet to the Head,genre,mid,10000,4,action film,-7.7114644050598145,crime film,-7.385867595672607,False
+Bullet to the Head,genre,mid,20000,6,action film,-7.31919527053833,power metal,-6.7486467361450195,False
+Bullet to the Head,genre,mid,30000,7,action film,-6.857500076293945,power metal,-5.546555519104004,False
+Bullet to the Head,genre,mid,40000,9,action film,-5.183977127075195,crime film,-6.091310977935791,True
+Bullet to the Head,genre,mid,50000,11,action film,-6.729242324829102,crime film,-5.993980407714844,False
+Bullet to the Head,genre,mid,60000,11,action film,-6.271231651306152,crime film,-6.32031774520874,True
+Bullet to the Head,genre,mid,70000,12,action film,-5.932311534881592,power metal,-5.96311092376709,True
+Bullet to the Head,genre,mid,80000,12,action film,-6.347901821136475,power metal,-6.357848167419434,True
+Bullet to the Head,genre,mid,90000,13,action film,-5.755181789398193,power metal,-5.33778190612793,False
+Bullet to the Head,genre,mid,100000,13,action film,-6.139310836791992,power metal,-5.982731342315674,False
+Bullet to the Head,genre,mid,109672,14,action film,-5.8841023445129395,power metal,-6.1163649559021,True
+30 Minutes,genre,mid,0,0,pop music,-11.469422340393066,teen pop,-11.242561340332031,False
+30 Minutes,genre,mid,10000,0,pop music,-5.33922004699707,teen pop,-7.434813976287842,True
+30 Minutes,genre,mid,20000,1,pop music,-4.119529724121094,teen pop,-7.304352283477783,True
+30 Minutes,genre,mid,30000,2,pop music,-3.7069954872131348,teen pop,-5.994434833526611,True
+30 Minutes,genre,mid,40000,3,pop music,-4.023406028747559,teen pop,-5.0177435874938965,True
+30 Minutes,genre,mid,50000,5,pop music,-4.351366996765137,teen pop,-6.832026958465576,True
+30 Minutes,genre,mid,60000,6,pop music,-4.571860313415527,teen pop,-6.592134952545166,True
+30 Minutes,genre,mid,70000,6,pop music,-4.857245445251465,teen pop,-5.787095069885254,True
+30 Minutes,genre,mid,80000,6,pop music,-4.030110836029053,teen pop,-5.392253398895264,True
+30 Minutes,genre,mid,90000,7,pop music,-4.111639022827148,teen pop,-5.7322916984558105,True
+30 Minutes,genre,mid,100000,7,pop music,-4.642722129821777,teen pop,-5.417060852050781,True
+30 Minutes,genre,mid,109672,10,pop music,-4.242365837097168,teen pop,-5.709959983825684,True
+The East,composer,mid,0,0,Halli Cauthery,-11.615010261535645,Tony Hatch,-11.316232681274414,False
+The East,composer,mid,10000,1,Halli Cauthery,-8.685942649841309,Tony Hatch,-6.5921101570129395,False
+The East,composer,mid,20000,2,Halli Cauthery,-6.871804237365723,Carter Burwell,-6.216537952423096,False
+The East,composer,mid,30000,4,Halli Cauthery,-7.806462287902832,Carter Burwell,-5.439236164093018,False
+The East,composer,mid,40000,8,Halli Cauthery,-10.038755416870117,Carter Burwell,-6.42454195022583,False
+The East,composer,mid,50000,8,Halli Cauthery,-8.426297187805176,Carter Burwell,-5.337723255157471,False
+The East,composer,mid,60000,9,Halli Cauthery,-8.782877922058105,Carter Burwell,-5.545447826385498,False
+The East,composer,mid,70000,11,Halli Cauthery,-8.385629653930664,Carter Burwell,-5.295965671539307,False
+The East,composer,mid,80000,11,Halli Cauthery,-9.285642623901367,Carter Burwell,-4.758239269256592,False
+The East,composer,mid,90000,14,Halli Cauthery,-7.632579803466797,Carter Burwell,-4.724423885345459,False
+The East,composer,mid,100000,18,Halli Cauthery,-7.993456840515137,Carter Burwell,-4.437788486480713,False
+The East,composer,mid,109672,19,Halli Cauthery,-7.397734642028809,Carter Burwell,-4.682956695556641,False
+Anton II of Georgia,father,mid,0,0,Heraclius II of Georgia,-11.7572021484375,James A. Garfield,-11.486814498901367,False
+Anton II of Georgia,father,mid,10000,1,Heraclius II of Georgia,-2.8440723419189453,James A. Garfield,-3.842742919921875,True
+Anton II of Georgia,father,mid,20000,3,Heraclius II of Georgia,-2.872204542160034,James A. Garfield,-4.161489009857178,True
+Anton II of Georgia,father,mid,30000,6,Heraclius II of Georgia,-2.10455060005188,James A. Garfield,-3.730530261993408,True
+Anton II of Georgia,father,mid,40000,8,Heraclius II of Georgia,-1.9825395345687866,James A. Garfield,-4.0926923751831055,True
+Anton II of Georgia,father,mid,50000,11,Heraclius II of Georgia,-2.368497371673584,James A. Garfield,-4.0279693603515625,True
+Anton II of Georgia,father,mid,60000,12,Heraclius II of Georgia,-2.6093947887420654,James A. Garfield,-4.239373207092285,True
+Anton II of Georgia,father,mid,70000,13,Heraclius II of Georgia,-2.5822596549987793,James A. Garfield,-3.8301315307617188,True
+Anton II of Georgia,father,mid,80000,14,Heraclius II of Georgia,-1.6959466934204102,James A. Garfield,-4.044065952301025,True
+Anton II of Georgia,father,mid,90000,14,Heraclius II of Georgia,-1.9251421689987183,James A. Garfield,-4.0980424880981445,True
+Anton II of Georgia,father,mid,100000,14,Heraclius II of Georgia,-1.824792504310608,James A. Garfield,-3.938030958175659,True
+Anton II of Georgia,father,mid,109672,15,Heraclius II of Georgia,-1.7168707847595215,James A. Garfield,-3.765193223953247,True
+Ankhiyon Ke Jharokhon Se,composer,mid,0,0,Ravindra Jain,-11.694580078125,K. V. Mahadevan,-11.804095268249512,True
+Ankhiyon Ke Jharokhon Se,composer,mid,10000,2,Ravindra Jain,-5.766965389251709,K. V. Mahadevan,-2.9496612548828125,False
+Ankhiyon Ke Jharokhon Se,composer,mid,20000,3,Ravindra Jain,-5.812315464019775,K. V. Mahadevan,-2.968996524810791,False
+Ankhiyon Ke Jharokhon Se,composer,mid,30000,3,Ravindra Jain,-3.522012948989868,K. V. Mahadevan,-2.5064175128936768,False
+Ankhiyon Ke Jharokhon Se,composer,mid,40000,4,Ravindra Jain,-4.8074951171875,K. V. Mahadevan,-3.1059410572052,False
+Ankhiyon Ke Jharokhon Se,composer,mid,50000,5,Ravindra Jain,-5.115314483642578,K. V. Mahadevan,-2.488238573074341,False
+Ankhiyon Ke Jharokhon Se,composer,mid,60000,7,Ravindra Jain,-4.079835891723633,K. V. Mahadevan,-2.9661386013031006,False
+Ankhiyon Ke Jharokhon Se,composer,mid,70000,7,Ravindra Jain,-4.184515476226807,K. V. Mahadevan,-3.3036906719207764,False
+Ankhiyon Ke Jharokhon Se,composer,mid,80000,7,Ravindra Jain,-3.9545297622680664,K. V. Mahadevan,-3.201180934906006,False
+Ankhiyon Ke Jharokhon Se,composer,mid,90000,9,Ravindra Jain,-4.914664268493652,K. V. Mahadevan,-2.8097360134124756,False
+Ankhiyon Ke Jharokhon Se,composer,mid,100000,10,Ravindra Jain,-4.1656270027160645,K. V. Mahadevan,-2.6121532917022705,False
+Ankhiyon Ke Jharokhon Se,composer,mid,109672,13,Ravindra Jain,-4.028531074523926,K. V. Mahadevan,-2.596662998199463,False
+Cousins,director,mid,0,0,Joel Schumacher,-11.171689987182617,Oren Rudavsky,-11.118983268737793,False
+Cousins,director,mid,10000,0,Joel Schumacher,-3.353889226913452,Oren Rudavsky,-5.804505825042725,True
+Cousins,director,mid,20000,2,Joel Schumacher,-4.080674171447754,Oren Rudavsky,-6.479498863220215,True
+Cousins,director,mid,30000,3,Joel Schumacher,-3.849590301513672,Oren Rudavsky,-6.30216646194458,True
+Cousins,director,mid,40000,4,Joel Schumacher,-4.342130184173584,Oren Rudavsky,-6.745076656341553,True
+Cousins,director,mid,50000,8,Joel Schumacher,-3.532165765762329,Oren Rudavsky,-6.067533016204834,True
+Cousins,director,mid,60000,8,Joel Schumacher,-3.709953546524048,Francis Lawrence,-6.184637546539307,True
+Cousins,director,mid,70000,8,Joel Schumacher,-3.444664478302002,Oren Rudavsky,-6.104243278503418,True
+Cousins,director,mid,80000,12,Joel Schumacher,-3.208876609802246,Oren Rudavsky,-5.6590986251831055,True
+Cousins,director,mid,90000,12,Joel Schumacher,-3.4113266468048096,Oren Rudavsky,-6.214373588562012,True
+Cousins,director,mid,100000,13,Joel Schumacher,-3.1666407585144043,Oren Rudavsky,-6.022341251373291,True
+Cousins,director,mid,109672,16,Joel Schumacher,-3.2796685695648193,Oren Rudavsky,-5.515254020690918,True
+Jade,composer,mid,0,0,James Horner,-11.96699047088623,John Cale,-11.976651191711426,True
+Jade,composer,mid,10000,3,James Horner,-5.452188968658447,John Cale,-4.815256595611572,False
+Jade,composer,mid,20000,5,James Horner,-5.172343730926514,John Cale,-4.918409824371338,False
+Jade,composer,mid,30000,6,James Horner,-4.749795436859131,John Cale,-4.760262489318848,True
+Jade,composer,mid,40000,7,James Horner,-5.124180316925049,John Cale,-4.967382907867432,False
+Jade,composer,mid,50000,7,James Horner,-4.471181392669678,John Cale,-4.534631729125977,True
+Jade,composer,mid,60000,9,James Horner,-4.446438789367676,John Cale,-4.548460960388184,True
+Jade,composer,mid,70000,10,James Horner,-3.9892959594726562,Joseph LoDuca,-4.542065143585205,True
+Jade,composer,mid,80000,15,James Horner,-4.132003307342529,Joseph LoDuca,-4.470124244689941,True
+Jade,composer,mid,90000,17,James Horner,-3.7676279544830322,John Cale,-4.552727699279785,True
+Jade,composer,mid,100000,20,James Horner,-3.814455032348633,John Cale,-4.22391939163208,True
+Jade,composer,mid,109672,20,James Horner,-3.639871835708618,John Cale,-4.489718437194824,True
+Eating Out,genre,mid,0,0,romantic comedy,-12.663661003112793,cumbia,-11.780223846435547,False
+Eating Out,genre,mid,10000,2,romantic comedy,-5.8161163330078125,cumbia,-4.631335735321045,False
+Eating Out,genre,mid,20000,4,romantic comedy,-5.871575355529785,cumbia,-4.56162691116333,False
+Eating Out,genre,mid,30000,6,romantic comedy,-5.37980318069458,cumbia,-3.8791732788085938,False
+Eating Out,genre,mid,40000,8,romantic comedy,-4.887417793273926,comedy-drama,-4.162005424499512,False
+Eating Out,genre,mid,50000,8,romantic comedy,-5.8825201988220215,cumbia,-4.384023189544678,False
+Eating Out,genre,mid,60000,9,romantic comedy,-5.594231605529785,comedy-drama,-3.617582321166992,False
+Eating Out,genre,mid,70000,9,romantic comedy,-4.966415882110596,comedy-drama,-4.019612789154053,False
+Eating Out,genre,mid,80000,9,romantic comedy,-5.797250747680664,comedy-drama,-3.7591607570648193,False
+Eating Out,genre,mid,90000,11,romantic comedy,-5.021480083465576,comedy-drama,-3.808896064758301,False
+Eating Out,genre,mid,100000,15,romantic comedy,-5.942760944366455,comedy-drama,-3.89081072807312,False
+Eating Out,genre,mid,109672,16,romantic comedy,-5.285792827606201,comedy-drama,-4.485036373138428,False
+As One,genre,mid,0,0,Cantopop,-11.581074714660645,techno-thriller,-11.72335147857666,True
+As One,genre,mid,10000,1,Cantopop,-6.740449905395508,techno-thriller,-4.910410404205322,False
+As One,genre,mid,20000,3,Cantopop,-5.604646682739258,techno-thriller,-5.395033836364746,False
+As One,genre,mid,30000,3,Cantopop,-5.058126926422119,techno-thriller,-4.721327304840088,False
+As One,genre,mid,40000,4,Cantopop,-4.973795413970947,techno-thriller,-3.231590509414673,False
+As One,genre,mid,50000,4,Cantopop,-5.697935581207275,techno-thriller,-4.277797698974609,False
+As One,genre,mid,60000,4,Cantopop,-6.668453693389893,techno-thriller,-3.9138896465301514,False
+As One,genre,mid,70000,5,Cantopop,-5.193335056304932,techno-thriller,-4.252237319946289,False
+As One,genre,mid,80000,5,Cantopop,-6.260986804962158,techno-thriller,-3.6578757762908936,False
+As One,genre,mid,90000,6,Cantopop,-6.508190631866455,techno-thriller,-3.691857099533081,False
+As One,genre,mid,100000,9,Cantopop,-5.576653957366943,techno-thriller,-3.540715456008911,False
+As One,genre,mid,109672,9,Cantopop,-5.981534957885742,techno-thriller,-4.063492774963379,False
+Condorman,director,mid,0,0,Charles Jarrott,-11.585780143737793,Tomonobu Itagaki,-11.304099082946777,False
+Condorman,director,mid,10000,1,Charles Jarrott,-6.175065994262695,Tomonobu Itagaki,-4.5267720222473145,False
+Condorman,director,mid,20000,3,Charles Jarrott,-6.682098865509033,Tomonobu Itagaki,-4.395667552947998,False
+Condorman,director,mid,30000,5,Charles Jarrott,-6.814798355102539,Tomonobu Itagaki,-4.131369590759277,False
+Condorman,director,mid,40000,6,Charles Jarrott,-7.196376800537109,Tomonobu Itagaki,-5.445883274078369,False
+Condorman,director,mid,50000,9,Charles Jarrott,-5.910974979400635,Tomonobu Itagaki,-3.3804752826690674,False
+Condorman,director,mid,60000,10,Charles Jarrott,-6.080863952636719,Tomonobu Itagaki,-3.8101274967193604,False
+Condorman,director,mid,70000,10,Charles Jarrott,-5.6035027503967285,Tomonobu Itagaki,-3.6196389198303223,False
+Condorman,director,mid,80000,12,Charles Jarrott,-5.7605061531066895,Tomonobu Itagaki,-3.687323808670044,False
+Condorman,director,mid,90000,13,Charles Jarrott,-6.002754211425781,Tomonobu Itagaki,-3.368940830230713,False
+Condorman,director,mid,100000,14,Charles Jarrott,-5.601789951324463,Tomonobu Itagaki,-3.65301513671875,False
+Condorman,director,mid,109672,16,Charles Jarrott,-5.21377420425415,Tomonobu Itagaki,-3.4268839359283447,False
+"Honey, We Shrunk Ourselves",director,mid,0,0,Dean Cundey,-11.475028038024902,Gian Carlo Menotti,-11.765762329101562,True
+"Honey, We Shrunk Ourselves",director,mid,10000,2,Dean Cundey,-6.658641815185547,Gian Carlo Menotti,-6.127140045166016,False
+"Honey, We Shrunk Ourselves",director,mid,20000,3,Dean Cundey,-7.616736888885498,Gian Carlo Menotti,-3.6796493530273438,False
+"Honey, We Shrunk Ourselves",director,mid,30000,5,Dean Cundey,-6.919836044311523,Gian Carlo Menotti,-3.7859110832214355,False
+"Honey, We Shrunk Ourselves",director,mid,40000,6,Dean Cundey,-6.702206611633301,Gian Carlo Menotti,-5.386605739593506,False
+"Honey, We Shrunk Ourselves",director,mid,50000,8,Dean Cundey,-6.400937080383301,Gian Carlo Menotti,-4.0170722007751465,False
+"Honey, We Shrunk Ourselves",director,mid,60000,9,Dean Cundey,-6.04484224319458,Gian Carlo Menotti,-4.936320781707764,False
+"Honey, We Shrunk Ourselves",director,mid,70000,10,Dean Cundey,-5.828934669494629,Gian Carlo Menotti,-5.061602592468262,False
+"Honey, We Shrunk Ourselves",director,mid,80000,13,Dean Cundey,-5.545968055725098,Gian Carlo Menotti,-4.631069660186768,False
+"Honey, We Shrunk Ourselves",director,mid,90000,13,Dean Cundey,-5.116551876068115,Gian Carlo Menotti,-4.649969100952148,False
+"Honey, We Shrunk Ourselves",director,mid,100000,13,Dean Cundey,-5.4412736892700195,Gian Carlo Menotti,-4.478738307952881,False
+"Honey, We Shrunk Ourselves",director,mid,109672,19,Dean Cundey,-5.12190055847168,Gian Carlo Menotti,-4.00383996963501,False
+Beautiful,screenwriter,mid,0,0,Anoop Menon,-11.564742088317871,Chen Kuo-Fu,-11.592516899108887,True
+Beautiful,screenwriter,mid,10000,1,Anoop Menon,-6.341888427734375,Chen Kuo-Fu,-6.037235736846924,False
+Beautiful,screenwriter,mid,20000,2,Anoop Menon,-4.976272106170654,Chen Kuo-Fu,-5.560882091522217,True
+Beautiful,screenwriter,mid,30000,5,Anoop Menon,-3.6402125358581543,Chen Kuo-Fu,-5.223301887512207,True
+Beautiful,screenwriter,mid,40000,6,Anoop Menon,-5.562036991119385,Chen Kuo-Fu,-5.218621730804443,False
+Beautiful,screenwriter,mid,50000,10,Anoop Menon,-4.3855485916137695,Marti Noxon,-5.252993106842041,True
+Beautiful,screenwriter,mid,60000,10,Anoop Menon,-4.819116115570068,Chen Kuo-Fu,-4.541337490081787,False
+Beautiful,screenwriter,mid,70000,13,Anoop Menon,-4.565330982208252,Marti Noxon,-4.827066898345947,True
+Beautiful,screenwriter,mid,80000,13,Anoop Menon,-3.7725002765655518,Marti Noxon,-3.6578691005706787,False
+Beautiful,screenwriter,mid,90000,13,Anoop Menon,-4.131930828094482,Marti Noxon,-4.448727130889893,True
+Beautiful,screenwriter,mid,100000,14,Anoop Menon,-4.125397205352783,Marti Noxon,-3.6879005432128906,False
+Beautiful,screenwriter,mid,109672,14,Anoop Menon,-3.6594271659851074,Marti Noxon,-4.771434307098389,True
+By Design,director,mid,0,0,Claude Jutra,-11.786750793457031,Feng Xiaogang,-11.303661346435547,False
+By Design,director,mid,10000,2,Claude Jutra,-5.7527923583984375,Feng Xiaogang,-5.849050521850586,True
+By Design,director,mid,20000,3,Claude Jutra,-5.5410637855529785,Feng Xiaogang,-5.634027004241943,True
+By Design,director,mid,30000,3,Claude Jutra,-5.093408107757568,Feng Xiaogang,-3.928450107574463,False
+By Design,director,mid,40000,6,Claude Jutra,-6.118711948394775,Feng Xiaogang,-4.782822132110596,False
+By Design,director,mid,50000,6,Claude Jutra,-5.5710625648498535,Feng Xiaogang,-4.5381622314453125,False
+By Design,director,mid,60000,6,Claude Jutra,-4.254974842071533,Feng Xiaogang,-4.671667098999023,True
+By Design,director,mid,70000,7,Claude Jutra,-4.612610340118408,Feng Xiaogang,-4.179071426391602,False
+By Design,director,mid,80000,7,Claude Jutra,-4.9891462326049805,Feng Xiaogang,-4.04762077331543,False
+By Design,director,mid,90000,8,Claude Jutra,-5.829757213592529,Feng Xiaogang,-4.169003486633301,False
+By Design,director,mid,100000,9,Claude Jutra,-5.3955912590026855,Feng Xiaogang,-4.251944541931152,False
+By Design,director,mid,109672,9,Claude Jutra,-4.41003942489624,Feng Xiaogang,-3.5106263160705566,False
+Sweet Home,screenwriter,mid,0,0,Kiyoshi Kurosawa,-11.878493309020996,Mike Gray,-12.142559051513672,True
+Sweet Home,screenwriter,mid,10000,0,Kiyoshi Kurosawa,-3.4116909503936768,Mike Gray,-7.658931732177734,True
+Sweet Home,screenwriter,mid,20000,0,Kiyoshi Kurosawa,-3.995344877243042,Mike Gray,-7.380712985992432,True
+Sweet Home,screenwriter,mid,30000,1,Kiyoshi Kurosawa,-3.6056814193725586,Mike Gray,-6.7204813957214355,True
+Sweet Home,screenwriter,mid,40000,1,Kiyoshi Kurosawa,-3.9164164066314697,Mike Gray,-7.846532344818115,True
+Sweet Home,screenwriter,mid,50000,1,Kiyoshi Kurosawa,-3.193328857421875,Mike Gray,-6.860581398010254,True
+Sweet Home,screenwriter,mid,60000,2,Kiyoshi Kurosawa,-3.2697646617889404,Mike Gray,-6.736837863922119,True
+Sweet Home,screenwriter,mid,70000,2,Kiyoshi Kurosawa,-3.3613195419311523,Mike Gray,-7.068727970123291,True
+Sweet Home,screenwriter,mid,80000,3,Kiyoshi Kurosawa,-2.998309850692749,Ivan Davis,-6.750026226043701,True
+Sweet Home,screenwriter,mid,90000,5,Kiyoshi Kurosawa,-3.124338150024414,Mike Gray,-6.72416877746582,True
+Sweet Home,screenwriter,mid,100000,7,Kiyoshi Kurosawa,-2.7300665378570557,Ivan Davis,-7.209621429443359,True
+Sweet Home,screenwriter,mid,109672,7,Kiyoshi Kurosawa,-3.0934934616088867,Mike Gray,-6.516010284423828,True
+Simon,screenwriter,mid,0,0,Marshall Brickman,-11.608787536621094,Juanma Bajo Ulloa,-11.79692554473877,True
+Simon,screenwriter,mid,10000,1,Marshall Brickman,-6.808855056762695,Juanma Bajo Ulloa,-6.012405872344971,False
+Simon,screenwriter,mid,20000,1,Marshall Brickman,-8.209166526794434,Juanma Bajo Ulloa,-6.065262317657471,False
+Simon,screenwriter,mid,30000,1,Marshall Brickman,-7.272501468658447,Juanma Bajo Ulloa,-5.938599109649658,False
+Simon,screenwriter,mid,40000,1,Marshall Brickman,-7.755738735198975,Juanma Bajo Ulloa,-6.481018543243408,False
+Simon,screenwriter,mid,50000,2,Marshall Brickman,-7.939142227172852,Juanma Bajo Ulloa,-5.862026214599609,False
+Simon,screenwriter,mid,60000,2,Marshall Brickman,-7.436522960662842,Juanma Bajo Ulloa,-5.91792631149292,False
+Simon,screenwriter,mid,70000,3,Marshall Brickman,-6.926265239715576,Juanma Bajo Ulloa,-5.310551643371582,False
+Simon,screenwriter,mid,80000,3,Marshall Brickman,-6.633584499359131,Juanma Bajo Ulloa,-5.173225402832031,False
+Simon,screenwriter,mid,90000,5,Marshall Brickman,-5.754398822784424,Juanma Bajo Ulloa,-5.586875915527344,False
+Simon,screenwriter,mid,100000,6,Marshall Brickman,-5.93496561050415,Juanma Bajo Ulloa,-5.356503963470459,False
+Simon,screenwriter,mid,109672,7,Marshall Brickman,-5.627842426300049,Juanma Bajo Ulloa,-5.529762268066406,False
+Tomorrow Is Yesterday,director,mid,0,0,Michael O'Herlihy,-11.745780944824219,Cyril Gardner,-11.926300048828125,True
+Tomorrow Is Yesterday,director,mid,10000,2,Michael O'Herlihy,-3.939133405685425,Peter Medak,-6.555185794830322,True
+Tomorrow Is Yesterday,director,mid,20000,5,Michael O'Herlihy,-3.013953447341919,Peter Medak,-6.335842132568359,True
+Tomorrow Is Yesterday,director,mid,30000,5,Michael O'Herlihy,-3.1939315795898438,Peter Medak,-5.674179553985596,True
+Tomorrow Is Yesterday,director,mid,40000,10,Michael O'Herlihy,-2.747645378112793,Peter Medak,-5.697840213775635,True
+Tomorrow Is Yesterday,director,mid,50000,11,Michael O'Herlihy,-3.111945867538452,Peter Medak,-5.0163116455078125,True
+Tomorrow Is Yesterday,director,mid,60000,12,Michael O'Herlihy,-3.0016701221466064,Peter Medak,-4.6448493003845215,True
+Tomorrow Is Yesterday,director,mid,70000,16,Michael O'Herlihy,-2.9230833053588867,Peter Medak,-5.186411380767822,True
+Tomorrow Is Yesterday,director,mid,80000,18,Michael O'Herlihy,-3.3062312602996826,Peter Medak,-5.143142223358154,True
+Tomorrow Is Yesterday,director,mid,90000,20,Michael O'Herlihy,-2.8517544269561768,Peter Medak,-3.9665613174438477,True
+Tomorrow Is Yesterday,director,mid,100000,20,Michael O'Herlihy,-2.5292727947235107,Peter Medak,-4.219474792480469,True
+Tomorrow Is Yesterday,director,mid,109672,21,Michael O'Herlihy,-2.864414930343628,Peter Medak,-4.486230850219727,True
+Familia,screenwriter,mid,0,0,Louise Archambault,-11.533544540405273,Santo Cilauro,-11.716184616088867,True
+Familia,screenwriter,mid,10000,0,Louise Archambault,-5.872072219848633,Arne Skouen,-6.008412837982178,True
+Familia,screenwriter,mid,20000,0,Louise Archambault,-5.650554180145264,Arne Skouen,-5.269505977630615,False
+Familia,screenwriter,mid,30000,3,Louise Archambault,-5.675205707550049,Arne Skouen,-5.77328634262085,True
+Familia,screenwriter,mid,40000,3,Louise Archambault,-5.700995922088623,Arne Skouen,-5.957058429718018,True
+Familia,screenwriter,mid,50000,3,Louise Archambault,-5.0976128578186035,Arne Skouen,-5.64742374420166,True
+Familia,screenwriter,mid,60000,4,Louise Archambault,-4.834099292755127,Arne Skouen,-4.628487586975098,False
+Familia,screenwriter,mid,70000,5,Louise Archambault,-4.53012752532959,Arne Skouen,-4.824850559234619,True
+Familia,screenwriter,mid,80000,6,Louise Archambault,-4.388912677764893,Arne Skouen,-4.595320224761963,True
+Familia,screenwriter,mid,90000,6,Louise Archambault,-4.728240966796875,Arne Skouen,-4.450915813446045,False
+Familia,screenwriter,mid,100000,7,Louise Archambault,-4.719401836395264,Arne Skouen,-4.191821098327637,False
+Familia,screenwriter,mid,109672,7,Louise Archambault,-4.668249130249023,Santo Cilauro,-4.606521129608154,False
+They,producer,mid,0,0,Ted Field,-11.337773323059082,Alex Proyas,-11.20716381072998,False
+They,producer,mid,10000,2,Ted Field,-8.343069076538086,Jesse Louis Lasky,-5.811596870422363,False
+They,producer,mid,20000,2,Ted Field,-9.15418815612793,Jesse Louis Lasky,-6.356841564178467,False
+They,producer,mid,30000,3,Ted Field,-8.190195083618164,Jesse Louis Lasky,-6.180105686187744,False
+They,producer,mid,40000,3,Ted Field,-6.955909729003906,Jesse Louis Lasky,-5.141661643981934,False
+They,producer,mid,50000,4,Ted Field,-7.409271240234375,Alex Proyas,-5.17263126373291,False
+They,producer,mid,60000,6,Ted Field,-7.806703567504883,Alex Proyas,-5.425166606903076,False
+They,producer,mid,70000,7,Ted Field,-8.182162284851074,Alex Proyas,-5.0215744972229,False
+They,producer,mid,80000,7,Ted Field,-7.131265640258789,Alex Proyas,-4.631974697113037,False
+They,producer,mid,90000,8,Ted Field,-7.801218032836914,Alex Proyas,-5.208789348602295,False
+They,producer,mid,100000,8,Ted Field,-7.743208885192871,Alex Proyas,-4.471765518188477,False
+They,producer,mid,109672,10,Ted Field,-7.5385284423828125,Alex Proyas,-4.978426456451416,False
+La Collectionneuse,screenwriter,mid,0,0,Patrick Bauchau,-11.780293464660645,Steve Purcell,-11.771178245544434,False
+La Collectionneuse,screenwriter,mid,10000,1,Patrick Bauchau,-6.045475959777832,James Salter,-6.029752731323242,False
+La Collectionneuse,screenwriter,mid,20000,3,Patrick Bauchau,-5.800087928771973,James Salter,-6.20005989074707,True
+La Collectionneuse,screenwriter,mid,30000,3,Patrick Bauchau,-5.625750541687012,James Salter,-5.060593128204346,False
+La Collectionneuse,screenwriter,mid,40000,3,Patrick Bauchau,-6.228031158447266,James Salter,-5.858713626861572,False
+La Collectionneuse,screenwriter,mid,50000,5,Patrick Bauchau,-6.309635162353516,James Salter,-6.176208019256592,False
+La Collectionneuse,screenwriter,mid,60000,5,Patrick Bauchau,-4.768317222595215,James Salter,-5.372028350830078,True
+La Collectionneuse,screenwriter,mid,70000,8,Patrick Bauchau,-6.319919109344482,James Salter,-5.545934200286865,False
+La Collectionneuse,screenwriter,mid,80000,11,Patrick Bauchau,-5.21401834487915,James Salter,-4.99634313583374,False
+La Collectionneuse,screenwriter,mid,90000,12,Patrick Bauchau,-6.147611618041992,James Salter,-5.017503261566162,False
+La Collectionneuse,screenwriter,mid,100000,15,Patrick Bauchau,-5.943065166473389,James Salter,-4.855148792266846,False
+La Collectionneuse,screenwriter,mid,109672,15,Patrick Bauchau,-5.888731479644775,James Salter,-4.716674327850342,False
+BE,producer,mid,0,0,Dave Sitek,-11.028454780578613,Bert Haanstra,-11.389053344726562,True
+BE,producer,mid,10000,2,Dave Sitek,-7.298105716705322,Nuri Bilge Ceylan,-6.790607452392578,False
+BE,producer,mid,20000,2,Dave Sitek,-7.9656524658203125,Nuri Bilge Ceylan,-6.19014835357666,False
+BE,producer,mid,30000,3,Dave Sitek,-6.517373561859131,Nuri Bilge Ceylan,-5.312119007110596,False
+BE,producer,mid,40000,5,Dave Sitek,-7.871058940887451,Nuri Bilge Ceylan,-6.106753826141357,False
+BE,producer,mid,50000,6,Dave Sitek,-6.488788604736328,Nuri Bilge Ceylan,-5.268361568450928,False
+BE,producer,mid,60000,8,Dave Sitek,-6.123739719390869,Nuri Bilge Ceylan,-5.076021671295166,False
+BE,producer,mid,70000,10,Dave Sitek,-6.181849002838135,Nuri Bilge Ceylan,-5.074282169342041,False
+BE,producer,mid,80000,11,Dave Sitek,-6.3074798583984375,Nuri Bilge Ceylan,-4.141171455383301,False
+BE,producer,mid,90000,12,Dave Sitek,-6.113256931304932,Nuri Bilge Ceylan,-4.177043437957764,False
+BE,producer,mid,100000,13,Dave Sitek,-6.302892208099365,Nuri Bilge Ceylan,-4.129328727722168,False
+BE,producer,mid,109672,13,Dave Sitek,-6.319260120391846,Nuri Bilge Ceylan,-3.9956092834472656,False
+Guru,composer,mid,0,0,Ilaiyaraaja,-11.746854782104492,Christopher Tyng,-11.690670013427734,False
+Guru,composer,mid,10000,2,Ilaiyaraaja,-4.857701301574707,Richard Wagner,-6.54197359085083,True
+Guru,composer,mid,20000,3,Ilaiyaraaja,-2.8462891578674316,Richard Wagner,-4.880270481109619,True
+Guru,composer,mid,30000,3,Ilaiyaraaja,-2.1504642963409424,Christopher Tyng,-6.0950164794921875,True
+Guru,composer,mid,40000,4,Ilaiyaraaja,-3.613649368286133,Richard Wagner,-4.827805519104004,True
+Guru,composer,mid,50000,5,Ilaiyaraaja,-2.842097759246826,Richard Wagner,-5.090053081512451,True
+Guru,composer,mid,60000,6,Ilaiyaraaja,-2.1531388759613037,Richard Wagner,-5.565622806549072,True
+Guru,composer,mid,70000,7,Ilaiyaraaja,-2.2814266681671143,Richard Wagner,-5.713749885559082,True
+Guru,composer,mid,80000,9,Ilaiyaraaja,-2.1436026096343994,Richard Wagner,-4.191400051116943,True
+Guru,composer,mid,90000,9,Ilaiyaraaja,-2.226404905319214,Richard Wagner,-4.626248359680176,True
+Guru,composer,mid,100000,10,Ilaiyaraaja,-2.35221266746521,Richard Wagner,-5.8653883934021,True
+Guru,composer,mid,109672,13,Ilaiyaraaja,-2.476898193359375,Richard Wagner,-4.725733757019043,True
+Michael Jackson's Ghosts,screenwriter,high,0,0,Michael Jackson,-11.564855575561523,Todd Berger,-11.405174255371094,False
+Michael Jackson's Ghosts,screenwriter,high,10000,0,Michael Jackson,-2.2246651649475098,Betty Comden,-7.564265727996826,True
+Michael Jackson's Ghosts,screenwriter,high,20000,0,Michael Jackson,-3.0419983863830566,Betty Comden,-5.694478988647461,True
+Michael Jackson's Ghosts,screenwriter,high,30000,4,Michael Jackson,-1.8772939443588257,Betty Comden,-5.97942590713501,True
+Michael Jackson's Ghosts,screenwriter,high,40000,7,Michael Jackson,-2.884134292602539,Betty Comden,-6.398563385009766,True
+Michael Jackson's Ghosts,screenwriter,high,50000,8,Michael Jackson,-3.644474983215332,Betty Comden,-5.815950393676758,True
+Michael Jackson's Ghosts,screenwriter,high,60000,9,Michael Jackson,-3.0156631469726562,Betty Comden,-5.965034484863281,True
+Michael Jackson's Ghosts,screenwriter,high,70000,12,Michael Jackson,-2.9245693683624268,Betty Comden,-4.956394672393799,True
+Michael Jackson's Ghosts,screenwriter,high,80000,15,Michael Jackson,-3.6601428985595703,Betty Comden,-6.097836971282959,True
+Michael Jackson's Ghosts,screenwriter,high,90000,16,Michael Jackson,-3.9886093139648438,Betty Comden,-5.431355953216553,True
+Michael Jackson's Ghosts,screenwriter,high,100000,18,Michael Jackson,-3.705641269683838,Betty Comden,-5.628591537475586,True
+Michael Jackson's Ghosts,screenwriter,high,109672,22,Michael Jackson,-3.2346651554107666,Betty Comden,-4.588497638702393,True
+Good News,screenwriter,high,0,0,Betty Comden,-11.064484596252441,Geoffrey S. Fletcher,-11.490144729614258,True
+Good News,screenwriter,high,10000,2,Betty Comden,-7.627255916595459,Terry Gilliam,-5.342647552490234,False
+Good News,screenwriter,high,20000,5,Betty Comden,-5.348601818084717,Terry Gilliam,-4.3757219314575195,False
+Good News,screenwriter,high,30000,8,Betty Comden,-5.443140506744385,Terry Gilliam,-3.9810540676116943,False
+Good News,screenwriter,high,40000,12,Betty Comden,-6.220445156097412,Terry Gilliam,-5.231805324554443,False
+Good News,screenwriter,high,50000,12,Betty Comden,-5.450267314910889,Terry Gilliam,-4.497291088104248,False
+Good News,screenwriter,high,60000,14,Betty Comden,-5.661189556121826,Terry Gilliam,-3.920083999633789,False
+Good News,screenwriter,high,70000,17,Betty Comden,-4.904966831207275,Terry Gilliam,-4.57803201675415,False
+Good News,screenwriter,high,80000,20,Betty Comden,-5.3358073234558105,Terry Gilliam,-3.91373348236084,False
+Good News,screenwriter,high,90000,21,Betty Comden,-5.114976406097412,Terry Gilliam,-3.7578327655792236,False
+Good News,screenwriter,high,100000,23,Betty Comden,-4.8737969398498535,Terry Gilliam,-4.125996112823486,False
+Good News,screenwriter,high,109672,24,Betty Comden,-4.623725414276123,Terry Gilliam,-4.048513412475586,False
+The Departed,producer,high,0,0,Brad Pitt,-11.674555778503418,Roy Battersby,-11.752107620239258,True
+The Departed,producer,high,10000,13,Brad Pitt,-6.669816017150879,Roy Battersby,-4.67648458480835,False
+The Departed,producer,high,20000,36,Brad Pitt,-5.932302474975586,Clive Barker,-4.345350742340088,False
+The Departed,producer,high,30000,54,Brad Pitt,-6.055924415588379,Clive Barker,-4.252180576324463,False
+The Departed,producer,high,40000,76,Brad Pitt,-5.947504043579102,Clive Barker,-2.576953411102295,False
+The Departed,producer,high,50000,99,Brad Pitt,-5.689267635345459,Roy Battersby,-3.6943259239196777,False
+The Departed,producer,high,60000,115,Brad Pitt,-5.696723937988281,Clive Barker,-3.2642910480499268,False
+The Departed,producer,high,70000,137,Brad Pitt,-6.483363628387451,Clive Barker,-3.749119997024536,False
+The Departed,producer,high,80000,152,Brad Pitt,-5.390128135681152,Clive Barker,-3.959477186203003,False
+The Departed,producer,high,90000,171,Brad Pitt,-5.791646480560303,Roy Battersby,-3.6968486309051514,False
+The Departed,producer,high,100000,185,Brad Pitt,-5.553402900695801,Clive Barker,-3.598374128341675,False
+The Departed,producer,high,109672,205,Brad Pitt,-5.928208351135254,Clive Barker,-3.7662782669067383,False
+Antalya,capital of,high,0,0,Antalya Province,-12.361080169677734,Tripp County,-11.474432945251465,False
+Antalya,capital of,high,10000,164,Antalya Province,-2.209029197692871,Monufia Governorate,-5.668824195861816,True
+Antalya,capital of,high,20000,300,Antalya Province,-1.3216146230697632,Monufia Governorate,-4.767876625061035,True
+Antalya,capital of,high,30000,442,Antalya Province,-1.3707079887390137,Monufia Governorate,-4.367033958435059,True
+Antalya,capital of,high,40000,583,Antalya Province,-1.2370537519454956,Monufia Governorate,-3.9960219860076904,True
+Antalya,capital of,high,50000,769,Antalya Province,-1.027185320854187,Monufia Governorate,-4.919078826904297,True
+Antalya,capital of,high,60000,929,Antalya Province,-1.32464599609375,Monufia Governorate,-3.502234697341919,True
+Antalya,capital of,high,70000,1058,Antalya Province,-1.1351975202560425,Monufia Governorate,-2.7706332206726074,True
+Antalya,capital of,high,80000,1205,Antalya Province,-1.0038392543792725,Monufia Governorate,-3.4000244140625,True
+Antalya,capital of,high,90000,1369,Antalya Province,-1.1140555143356323,Monufia Governorate,-3.9937233924865723,True
+Antalya,capital of,high,100000,1532,Antalya Province,-1.1485344171524048,Monufia Governorate,-4.359453201293945,True
+Antalya,capital of,high,109672,1667,Antalya Province,-1.0197778940200806,Monufia Governorate,-4.249927997589111,True
+MASH,screenwriter,high,0,0,Ring Lardner,-11.742487907409668,Nedumudi Venu,-11.283466339111328,False
+MASH,screenwriter,high,10000,13,Ring Lardner,-6.464902400970459,Priyadarshan,-4.968625068664551,False
+MASH,screenwriter,high,20000,31,Ring Lardner,-5.375186443328857,Priyadarshan,-4.581434726715088,False
+MASH,screenwriter,high,30000,40,Ring Lardner,-5.091616153717041,Nedumudi Venu,-3.451697587966919,False
+MASH,screenwriter,high,40000,55,Ring Lardner,-4.013742923736572,Priyadarshan,-4.4106903076171875,True
+MASH,screenwriter,high,50000,67,Ring Lardner,-5.009050369262695,Priyadarshan,-3.6131134033203125,False
+MASH,screenwriter,high,60000,88,Ring Lardner,-4.557900905609131,Nedumudi Venu,-3.7057464122772217,False
+MASH,screenwriter,high,70000,97,Ring Lardner,-4.612682342529297,Priyadarshan,-3.6958158016204834,False
+MASH,screenwriter,high,80000,112,Ring Lardner,-4.335289001464844,Nedumudi Venu,-3.735441207885742,False
+MASH,screenwriter,high,90000,135,Ring Lardner,-4.105879783630371,Priyadarshan,-3.8619613647460938,False
+MASH,screenwriter,high,100000,147,Ring Lardner,-3.7126760482788086,Priyadarshan,-3.9510231018066406,True
+MASH,screenwriter,high,109672,165,Ring Lardner,-4.117798328399658,Priyadarshan,-3.8797478675842285,False
+The Constant,screenwriter,high,0,0,Damon Lindelof,-11.35225772857666,Howard Gordon,-11.844842910766602,True
+The Constant,screenwriter,high,10000,2,Damon Lindelof,-3.62296724319458,Andrew Bujalski,-6.328466415405273,True
+The Constant,screenwriter,high,20000,4,Damon Lindelof,-3.9766037464141846,Andrew Bujalski,-4.838741779327393,True
+The Constant,screenwriter,high,30000,9,Damon Lindelof,-2.8911843299865723,Andrew Bujalski,-5.408276557922363,True
+The Constant,screenwriter,high,40000,12,Damon Lindelof,-3.4021694660186768,Andrew Bujalski,-6.375029563903809,True
+The Constant,screenwriter,high,50000,12,Damon Lindelof,-3.8333144187927246,Andrew Bujalski,-4.424781799316406,True
+The Constant,screenwriter,high,60000,15,Damon Lindelof,-4.577330112457275,Andrew Bujalski,-3.3938140869140625,False
+The Constant,screenwriter,high,70000,18,Damon Lindelof,-3.1092817783355713,Andrew Bujalski,-4.044632911682129,True
+The Constant,screenwriter,high,80000,19,Damon Lindelof,-2.5584447383880615,Andrew Bujalski,-4.265244483947754,True
+The Constant,screenwriter,high,90000,20,Damon Lindelof,-2.8084487915039062,Andrew Bujalski,-4.197079658508301,True
+The Constant,screenwriter,high,100000,25,Damon Lindelof,-2.988278865814209,Andrew Bujalski,-4.287626266479492,True
+The Constant,screenwriter,high,109672,28,Damon Lindelof,-2.5856716632843018,Andrew Bujalski,-3.9107985496520996,True
+Manthan,screenwriter,high,0,0,Verghese Kurien,-11.490998268127441,Pierre Tchernia,-11.4636869430542,False
+Manthan,screenwriter,high,10000,5,Verghese Kurien,-6.482271671295166,Pierre Tchernia,-6.5612921714782715,True
+Manthan,screenwriter,high,20000,6,Verghese Kurien,-6.1170454025268555,Pierre Tchernia,-6.552350044250488,True
+Manthan,screenwriter,high,30000,7,Verghese Kurien,-6.284719467163086,Pierre Tchernia,-5.093226909637451,False
+Manthan,screenwriter,high,40000,7,Verghese Kurien,-8.045042037963867,Pierre Tchernia,-6.7142462730407715,False
+Manthan,screenwriter,high,50000,11,Verghese Kurien,-7.02630615234375,Pierre Tchernia,-6.245943069458008,False
+Manthan,screenwriter,high,60000,14,Verghese Kurien,-5.5617804527282715,Pierre Tchernia,-5.398287296295166,False
+Manthan,screenwriter,high,70000,15,Verghese Kurien,-5.539333820343018,Pierre Tchernia,-5.725853443145752,True
+Manthan,screenwriter,high,80000,18,Verghese Kurien,-5.7768073081970215,Pierre Tchernia,-5.8777899742126465,True
+Manthan,screenwriter,high,90000,20,Verghese Kurien,-5.523048400878906,Pierre Tchernia,-5.5833258628845215,True
+Manthan,screenwriter,high,100000,24,Verghese Kurien,-5.0812087059021,Pierre Tchernia,-5.956084251403809,True
+Manthan,screenwriter,high,109672,26,Verghese Kurien,-4.798003196716309,Pierre Tchernia,-5.509153842926025,True
+The Incredible Burt Wonderstone,producer,high,0,0,Chris Bender,-11.684328079223633,Just Blaze,-11.476163864135742,False
+The Incredible Burt Wonderstone,producer,high,10000,3,Chris Bender,-8.41884994506836,G-Dragon,-6.576565265655518,False
+The Incredible Burt Wonderstone,producer,high,20000,5,Chris Bender,-8.31783676147461,G-Dragon,-4.5952324867248535,False
+The Incredible Burt Wonderstone,producer,high,30000,8,Chris Bender,-7.00870418548584,G-Dragon,-5.4306206703186035,False
+The Incredible Burt Wonderstone,producer,high,40000,10,Chris Bender,-8.125946044921875,G-Dragon,-5.504749298095703,False
+The Incredible Burt Wonderstone,producer,high,50000,12,Chris Bender,-8.250350952148438,G-Dragon,-4.939672470092773,False
+The Incredible Burt Wonderstone,producer,high,60000,14,Chris Bender,-8.190149307250977,G-Dragon,-5.100278377532959,False
+The Incredible Burt Wonderstone,producer,high,70000,17,Chris Bender,-7.704327583312988,G-Dragon,-5.190151214599609,False
+The Incredible Burt Wonderstone,producer,high,80000,20,Chris Bender,-9.065529823303223,G-Dragon,-5.49462366104126,False
+The Incredible Burt Wonderstone,producer,high,90000,20,Chris Bender,-8.09273910522461,G-Dragon,-5.052794933319092,False
+The Incredible Burt Wonderstone,producer,high,100000,24,Chris Bender,-6.72874116897583,G-Dragon,-5.3244853019714355,False
+The Incredible Burt Wonderstone,producer,high,109672,26,Chris Bender,-8.00651741027832,G-Dragon,-5.592466354370117,False
+The Dead,director,high,0,0,John Huston,-11.427525520324707,Gerd Oswald,-11.797889709472656,True
+The Dead,director,high,10000,2,John Huston,-3.6253883838653564,Gerd Oswald,-6.512506008148193,True
+The Dead,director,high,20000,4,John Huston,-3.867724657058716,Gerd Oswald,-6.9909892082214355,True
+The Dead,director,high,30000,8,John Huston,-2.71545147895813,Gerd Oswald,-6.286683559417725,True
+The Dead,director,high,40000,10,John Huston,-3.611891746520996,Gerd Oswald,-6.58837890625,True
+The Dead,director,high,50000,15,John Huston,-3.451584815979004,Gerd Oswald,-6.274740219116211,True
+The Dead,director,high,60000,16,John Huston,-3.2290515899658203,Gerd Oswald,-6.281371593475342,True
+The Dead,director,high,70000,18,John Huston,-3.8878190517425537,Gerd Oswald,-6.480433940887451,True
+The Dead,director,high,80000,24,John Huston,-3.8269615173339844,Gerd Oswald,-6.248284816741943,True
+The Dead,director,high,90000,28,John Huston,-4.5161213874816895,Gerd Oswald,-5.563339710235596,True
+The Dead,director,high,100000,30,John Huston,-3.910905599594116,Gerd Oswald,-5.842655658721924,True
+The Dead,director,high,109672,33,John Huston,-4.061426162719727,Gerd Oswald,-5.629099369049072,True
+The Holiday,director,high,0,0,Nancy Meyers,-12.090344429016113,Tony Bill,-11.419572830200195,False
+The Holiday,director,high,10000,10,Nancy Meyers,-5.769789218902588,Tony Bill,-6.987295150756836,True
+The Holiday,director,high,20000,15,Nancy Meyers,-4.952209949493408,Tony Bill,-8.00030517578125,True
+The Holiday,director,high,30000,16,Nancy Meyers,-4.766354560852051,Tony Bill,-7.2474141120910645,True
+The Holiday,director,high,40000,17,Nancy Meyers,-5.983602523803711,Tony Bill,-6.789973258972168,True
+The Holiday,director,high,50000,21,Nancy Meyers,-5.174399375915527,Tony Bill,-7.431199550628662,True
+The Holiday,director,high,60000,26,Nancy Meyers,-4.658743381500244,Tony Bill,-6.542212963104248,True
+The Holiday,director,high,70000,30,Nancy Meyers,-5.259378910064697,Tony Bill,-6.47788143157959,True
+The Holiday,director,high,80000,35,Nancy Meyers,-5.058178424835205,Tony Bill,-6.692381858825684,True
+The Holiday,director,high,90000,43,Nancy Meyers,-5.096827983856201,Tony Bill,-6.2882490158081055,True
+The Holiday,director,high,100000,47,Nancy Meyers,-4.940500736236572,Tony Bill,-6.218489170074463,True
+The Holiday,director,high,109672,53,Nancy Meyers,-4.902580738067627,Tony Bill,-6.315024375915527,True
+Another Year,screenwriter,high,0,0,Mike Leigh,-11.624850273132324,Anurag Kashyap,-11.534924507141113,False
+Another Year,screenwriter,high,10000,1,Mike Leigh,-7.411140441894531,Anurag Kashyap,-3.1921989917755127,False
+Another Year,screenwriter,high,20000,5,Mike Leigh,-7.091770172119141,Anurag Kashyap,-3.443618059158325,False
+Another Year,screenwriter,high,30000,7,Mike Leigh,-5.390815734863281,Anurag Kashyap,-3.0077006816864014,False
+Another Year,screenwriter,high,40000,7,Mike Leigh,-7.022119522094727,Anurag Kashyap,-3.108288526535034,False
+Another Year,screenwriter,high,50000,11,Mike Leigh,-6.318109512329102,Anurag Kashyap,-2.6311092376708984,False
+Another Year,screenwriter,high,60000,12,Mike Leigh,-6.015377521514893,Anurag Kashyap,-2.237989664077759,False
+Another Year,screenwriter,high,70000,14,Mike Leigh,-5.587673187255859,Anurag Kashyap,-2.4514808654785156,False
+Another Year,screenwriter,high,80000,16,Mike Leigh,-6.0227885246276855,Anurag Kashyap,-2.141380548477173,False
+Another Year,screenwriter,high,90000,20,Mike Leigh,-5.940783500671387,Anurag Kashyap,-2.021622657775879,False
+Another Year,screenwriter,high,100000,24,Mike Leigh,-5.997532844543457,Anurag Kashyap,-2.1368961334228516,False
+Another Year,screenwriter,high,109672,31,Mike Leigh,-5.842883586883545,Anurag Kashyap,-2.1540420055389404,False
+Best in Show,director,high,0,0,Christopher Guest,-11.672208786010742,Kimberly Peirce,-11.916831016540527,True
+Best in Show,director,high,10000,10,Christopher Guest,-6.77134895324707,Kimberly Peirce,-5.751352310180664,False
+Best in Show,director,high,20000,14,Christopher Guest,-5.863851070404053,Kimberly Peirce,-5.279153823852539,False
+Best in Show,director,high,30000,17,Christopher Guest,-5.340214729309082,Kimberly Peirce,-6.031599044799805,True
+Best in Show,director,high,40000,23,Christopher Guest,-5.064621448516846,Kimberly Peirce,-5.033256530761719,False
+Best in Show,director,high,50000,25,Christopher Guest,-4.7529425621032715,Kimberly Peirce,-4.4240803718566895,False
+Best in Show,director,high,60000,34,Christopher Guest,-5.985705375671387,Kimberly Peirce,-5.105447292327881,False
+Best in Show,director,high,70000,39,Christopher Guest,-5.858854293823242,Kimberly Peirce,-5.196727752685547,False
+Best in Show,director,high,80000,47,Christopher Guest,-5.934421539306641,Kimberly Peirce,-5.132152080535889,False
+Best in Show,director,high,90000,52,Christopher Guest,-5.62209415435791,Kimberly Peirce,-4.749778747558594,False
+Best in Show,director,high,100000,53,Christopher Guest,-5.5171217918396,Kimberly Peirce,-4.602233409881592,False
+Best in Show,director,high,109672,61,Christopher Guest,-6.323936462402344,Kimberly Peirce,-3.969085931777954,False
+On the Town,producer,high,0,0,Roger Edens,-11.744330406188965,Amitabh Bachchan,-11.385416984558105,False
+On the Town,producer,high,10000,4,Roger Edens,-6.456707000732422,Amitabh Bachchan,-3.885230302810669,False
+On the Town,producer,high,20000,10,Roger Edens,-6.211755275726318,Amitabh Bachchan,-3.0550625324249268,False
+On the Town,producer,high,30000,17,Roger Edens,-6.622211456298828,Amitabh Bachchan,-3.626408815383911,False
+On the Town,producer,high,40000,21,Roger Edens,-6.349327087402344,Amitabh Bachchan,-3.6904525756835938,False
+On the Town,producer,high,50000,31,Roger Edens,-6.126033306121826,Amitabh Bachchan,-3.366792917251587,False
+On the Town,producer,high,60000,37,Roger Edens,-5.577861309051514,Amitabh Bachchan,-3.786708354949951,False
+On the Town,producer,high,70000,42,Roger Edens,-5.989428997039795,Amitabh Bachchan,-3.524517297744751,False
+On the Town,producer,high,80000,49,Roger Edens,-5.688096523284912,Amitabh Bachchan,-3.4666554927825928,False
+On the Town,producer,high,90000,59,Roger Edens,-4.965850353240967,Marcel Pagnol,-3.2706139087677,False
+On the Town,producer,high,100000,69,Roger Edens,-5.648138046264648,Amitabh Bachchan,-3.3482253551483154,False
+On the Town,producer,high,109672,78,Roger Edens,-5.192585468292236,Amitabh Bachchan,-3.4725115299224854,False
+Great Expectations,screenwriter,high,0,0,Kay Walsh,-11.632299423217773,Dariush Mehrjui,-11.480667114257812,False
+Great Expectations,screenwriter,high,10000,3,Kay Walsh,-9.036214828491211,Samuthirakani,-5.1048407554626465,False
+Great Expectations,screenwriter,high,20000,11,Kay Walsh,-8.359514236450195,Dariush Mehrjui,-5.2674407958984375,False
+Great Expectations,screenwriter,high,30000,15,Kay Walsh,-7.918403148651123,Samuthirakani,-4.85833215713501,False
+Great Expectations,screenwriter,high,40000,23,Kay Walsh,-8.692716598510742,Samuthirakani,-5.127287864685059,False
+Great Expectations,screenwriter,high,50000,33,Kay Walsh,-7.91623067855835,Dariush Mehrjui,-3.9989025592803955,False
+Great Expectations,screenwriter,high,60000,41,Kay Walsh,-7.160697937011719,Samuthirakani,-3.461589813232422,False
+Great Expectations,screenwriter,high,70000,46,Kay Walsh,-7.655782222747803,Dariush Mehrjui,-3.7267019748687744,False
+Great Expectations,screenwriter,high,80000,54,Kay Walsh,-7.08732795715332,Samuthirakani,-3.673543930053711,False
+Great Expectations,screenwriter,high,90000,57,Kay Walsh,-7.967137336730957,Dariush Mehrjui,-3.488640546798706,False
+Great Expectations,screenwriter,high,100000,67,Kay Walsh,-7.201139450073242,Dariush Mehrjui,-2.8931119441986084,False
+Great Expectations,screenwriter,high,109672,74,Kay Walsh,-7.389037132263184,Dariush Mehrjui,-3.1063506603240967,False
+The Boxtrolls,director,high,0,0,Anthony Stacchi,-12.03178596496582,Todd Graff,-11.553272247314453,False
+The Boxtrolls,director,high,10000,3,Anthony Stacchi,-5.593566417694092,Todd Graff,-6.167745590209961,True
+The Boxtrolls,director,high,20000,3,Anthony Stacchi,-5.317591190338135,Todd Graff,-5.854433059692383,True
+The Boxtrolls,director,high,30000,5,Anthony Stacchi,-4.887327671051025,Todd Graff,-5.977977752685547,True
+The Boxtrolls,director,high,40000,9,Anthony Stacchi,-5.100037097930908,Todd Graff,-5.882272720336914,True
+The Boxtrolls,director,high,50000,12,Anthony Stacchi,-5.614694595336914,Todd Graff,-5.5214996337890625,False
+The Boxtrolls,director,high,60000,15,Anthony Stacchi,-4.965878963470459,Todd Graff,-6.355870723724365,True
+The Boxtrolls,director,high,70000,22,Anthony Stacchi,-5.255969524383545,Todd Graff,-5.217522621154785,False
+The Boxtrolls,director,high,80000,27,Anthony Stacchi,-5.226591110229492,Todd Graff,-5.840358734130859,True
+The Boxtrolls,director,high,90000,33,Anthony Stacchi,-4.266742706298828,Todd Graff,-5.322665691375732,True
+The Boxtrolls,director,high,100000,34,Anthony Stacchi,-4.839959621429443,Todd Graff,-5.236685276031494,True
+The Boxtrolls,director,high,109672,40,Anthony Stacchi,-4.8005242347717285,Todd Graff,-5.056034564971924,True
+A Little Night Music,composer,high,0,0,Stephen Sondheim,-11.62670612335205,Jace Everett,-11.921120643615723,True
+A Little Night Music,composer,high,10000,25,Stephen Sondheim,-2.8533668518066406,Richard Wagner,-5.183453559875488,True
+A Little Night Music,composer,high,20000,54,Stephen Sondheim,-3.030085563659668,Richard Wagner,-4.40639066696167,True
+A Little Night Music,composer,high,30000,83,Stephen Sondheim,-3.0395002365112305,Richard Wagner,-4.602937698364258,True
+A Little Night Music,composer,high,40000,114,Stephen Sondheim,-2.522554874420166,Richard Wagner,-4.30122709274292,True
+A Little Night Music,composer,high,50000,146,Stephen Sondheim,-2.7748863697052,Richard Wagner,-4.452463150024414,True
+A Little Night Music,composer,high,60000,170,Stephen Sondheim,-2.7219467163085938,Richard Wagner,-4.940618515014648,True
+A Little Night Music,composer,high,70000,187,Stephen Sondheim,-2.6187832355499268,Richard Wagner,-4.1942877769470215,True
+A Little Night Music,composer,high,80000,209,Stephen Sondheim,-2.8344080448150635,Richard Wagner,-4.046157360076904,True
+A Little Night Music,composer,high,90000,246,Stephen Sondheim,-2.9357166290283203,Richard Wagner,-4.0191650390625,True
+A Little Night Music,composer,high,100000,269,Stephen Sondheim,-2.6131041049957275,Richard Wagner,-4.638921737670898,True
+A Little Night Music,composer,high,109672,300,Stephen Sondheim,-2.7374846935272217,Richard Wagner,-3.9848599433898926,True
+Ronneby,capital of,high,0,0,Ronneby Municipality,-11.963484764099121,Sarah Baartman District Municipality,-11.725653648376465,False
+Ronneby,capital of,high,10000,10,Ronneby Municipality,-2.611377000808716,Orange County,-3.6852340698242188,True
+Ronneby,capital of,high,20000,15,Ronneby Municipality,-2.628574848175049,Sarah Baartman District Municipality,-4.944663047790527,True
+Ronneby,capital of,high,30000,23,Ronneby Municipality,-2.5814146995544434,Sarah Baartman District Municipality,-3.947171449661255,True
+Ronneby,capital of,high,40000,29,Ronneby Municipality,-2.478135824203491,Sarah Baartman District Municipality,-5.253225803375244,True
+Ronneby,capital of,high,50000,37,Ronneby Municipality,-2.519648313522339,Sarah Baartman District Municipality,-4.096100807189941,True
+Ronneby,capital of,high,60000,49,Ronneby Municipality,-2.6159064769744873,Sarah Baartman District Municipality,-3.3281118869781494,True
+Ronneby,capital of,high,70000,56,Ronneby Municipality,-2.5851054191589355,Sarah Baartman District Municipality,-3.3614540100097656,True
+Ronneby,capital of,high,80000,63,Ronneby Municipality,-1.7254798412322998,Sarah Baartman District Municipality,-3.2315542697906494,True
+Ronneby,capital of,high,90000,74,Ronneby Municipality,-1.9505727291107178,Sarah Baartman District Municipality,-3.434344530105591,True
+Ronneby,capital of,high,100000,84,Ronneby Municipality,-2.230384588241577,Sarah Baartman District Municipality,-3.123990535736084,True
+Ronneby,capital of,high,109672,91,Ronneby Municipality,-2.4367802143096924,Sarah Baartman District Municipality,-3.5474517345428467,True
+Witness,composer,high,0,0,Maurice Jarre,-11.369728088378906,Pankaj Mullick,-11.78977108001709,True
+Witness,composer,high,10000,8,Maurice Jarre,-5.23445463180542,Alan Menken,-5.453218460083008,True
+Witness,composer,high,20000,12,Maurice Jarre,-4.3132243156433105,Alan Menken,-4.649475574493408,True
+Witness,composer,high,30000,19,Maurice Jarre,-4.349655628204346,Alan Menken,-4.860280513763428,True
+Witness,composer,high,40000,25,Maurice Jarre,-4.896510601043701,Alan Menken,-4.854506492614746,False
+Witness,composer,high,50000,34,Maurice Jarre,-5.241596221923828,Pankaj Mullick,-4.451012134552002,False
+Witness,composer,high,60000,38,Maurice Jarre,-4.257863521575928,Pankaj Mullick,-4.036797523498535,False
+Witness,composer,high,70000,43,Maurice Jarre,-2.6273882389068604,Pankaj Mullick,-3.9432473182678223,True
+Witness,composer,high,80000,50,Maurice Jarre,-4.47848653793335,Alan Menken,-4.03893518447876,False
+Witness,composer,high,90000,56,Maurice Jarre,-3.8850584030151367,Alan Menken,-3.908271551132202,True
+Witness,composer,high,100000,60,Maurice Jarre,-3.2591331005096436,Alan Menken,-3.8732049465179443,True
+Witness,composer,high,109672,70,Maurice Jarre,-4.023685455322266,Alan Menken,-3.8027217388153076,False
+A.I. Artificial Intelligence,director,high,0,0,Steven Spielberg,-12.05453109741211,Paul Feig,-11.566139221191406,False
+A.I. Artificial Intelligence,director,high,10000,11,Steven Spielberg,-5.165694236755371,Paul Feig,-5.381480693817139,True
+A.I. Artificial Intelligence,director,high,20000,20,Steven Spielberg,-4.888303756713867,Paul Feig,-5.371972560882568,True
+A.I. Artificial Intelligence,director,high,30000,32,Steven Spielberg,-4.204363822937012,Christy Cabanne,-4.600295543670654,True
+A.I. Artificial Intelligence,director,high,40000,46,Steven Spielberg,-3.7878963947296143,Christy Cabanne,-4.889695167541504,True
+A.I. Artificial Intelligence,director,high,50000,65,Steven Spielberg,-4.5816168785095215,Paul Feig,-4.694696426391602,True
+A.I. Artificial Intelligence,director,high,60000,79,Steven Spielberg,-6.038304328918457,Paul Feig,-4.2306904792785645,False
+A.I. Artificial Intelligence,director,high,70000,86,Steven Spielberg,-6.376891613006592,Paul Feig,-5.227172374725342,False
+A.I. Artificial Intelligence,director,high,80000,95,Steven Spielberg,-4.296080112457275,Paul Feig,-4.677985191345215,True
+A.I. Artificial Intelligence,director,high,90000,109,Steven Spielberg,-4.603260040283203,Paul Feig,-4.423830986022949,False
+A.I. Artificial Intelligence,director,high,100000,121,Steven Spielberg,-4.257168292999268,Paul Feig,-4.307345867156982,True
+A.I. Artificial Intelligence,director,high,109672,128,Steven Spielberg,-4.530305862426758,Paul Feig,-4.341622829437256,False
+L. Ron Hubbard,religion,high,0,0,Scientology,-11.841399192810059,Celtic Christianity,-12.362147331237793,True
+L. Ron Hubbard,religion,high,10000,65,Scientology,-9.597769737243652,Celtic Christianity,-5.737526893615723,False
+L. Ron Hubbard,religion,high,20000,139,Scientology,-10.6891450881958,Celtic Christianity,-6.081065654754639,False
+L. Ron Hubbard,religion,high,30000,213,Scientology,-9.297224998474121,Celtic Christianity,-6.560415267944336,False
+L. Ron Hubbard,religion,high,40000,281,Scientology,-8.299116134643555,Celtic Christianity,-5.356684684753418,False
+L. Ron Hubbard,religion,high,50000,342,Scientology,-9.701021194458008,Celtic Christianity,-6.77956485748291,False
+L. Ron Hubbard,religion,high,60000,408,Scientology,-11.005891799926758,Celtic Christianity,-7.743356227874756,False
+L. Ron Hubbard,religion,high,70000,471,Scientology,-10.134767532348633,Celtic Christianity,-6.447935104370117,False
+L. Ron Hubbard,religion,high,80000,546,Scientology,-8.974088668823242,Celtic Christianity,-6.110252380371094,False
+L. Ron Hubbard,religion,high,90000,610,Scientology,-7.586756706237793,Celtic Christianity,-5.76254415512085,False
+L. Ron Hubbard,religion,high,100000,674,Scientology,-8.736832618713379,Celtic Christianity,-6.53651237487793,False
+L. Ron Hubbard,religion,high,109672,744,Scientology,-7.323817729949951,Celtic Christianity,-6.068137168884277,False
+A.I. Artificial Intelligence,screenwriter,high,0,0,Ian Watson,-11.625276565551758,Anne Fontaine,-11.313278198242188,False
+A.I. Artificial Intelligence,screenwriter,high,10000,11,Ian Watson,-7.914160251617432,Anne Fontaine,-5.703830718994141,False
+A.I. Artificial Intelligence,screenwriter,high,20000,20,Ian Watson,-7.681297302246094,Anne Fontaine,-5.407731533050537,False
+A.I. Artificial Intelligence,screenwriter,high,30000,32,Ian Watson,-6.297677040100098,Anne Fontaine,-5.194629192352295,False
+A.I. Artificial Intelligence,screenwriter,high,40000,46,Ian Watson,-8.938177108764648,R. Parthiepan,-6.584802150726318,False
+A.I. Artificial Intelligence,screenwriter,high,50000,65,Ian Watson,-6.868976593017578,R. Parthiepan,-5.213257312774658,False
+A.I. Artificial Intelligence,screenwriter,high,60000,79,Ian Watson,-6.475071907043457,Anne Fontaine,-5.207769393920898,False
+A.I. Artificial Intelligence,screenwriter,high,70000,86,Ian Watson,-6.3224873542785645,R. Parthiepan,-5.135221004486084,False
+A.I. Artificial Intelligence,screenwriter,high,80000,95,Ian Watson,-6.808019638061523,Anne Fontaine,-5.535884857177734,False
+A.I. Artificial Intelligence,screenwriter,high,90000,109,Ian Watson,-5.945069313049316,Anne Fontaine,-5.368860721588135,False
+A.I. Artificial Intelligence,screenwriter,high,100000,121,Ian Watson,-7.156991958618164,Anne Fontaine,-5.6842570304870605,False
+A.I. Artificial Intelligence,screenwriter,high,109672,128,Ian Watson,-6.258666038513184,Anne Fontaine,-4.990788459777832,False
+Live Your Life,composer,high,0,0,T.I.,-11.47077465057373,Michael Tippett,-11.574625015258789,True
+Live Your Life,composer,high,10000,3,T.I.,-4.6334919929504395,Michael Tippett,-3.9242541790008545,False
+Live Your Life,composer,high,20000,6,T.I.,-4.430557727813721,Michael Tippett,-3.013526678085327,False
+Live Your Life,composer,high,30000,8,T.I.,-4.276912212371826,Michael Tippett,-2.5827999114990234,False
+Live Your Life,composer,high,40000,9,T.I.,-4.544544696807861,Michael Tippett,-2.911383867263794,False
+Live Your Life,composer,high,50000,14,T.I.,-4.8986029624938965,Michael Tippett,-2.793757200241089,False
+Live Your Life,composer,high,60000,17,T.I.,-3.9969520568847656,Michael Tippett,-2.8737263679504395,False
+Live Your Life,composer,high,70000,18,T.I.,-4.315082550048828,Michael Tippett,-3.0884785652160645,False
+Live Your Life,composer,high,80000,20,T.I.,-4.46400785446167,Michael Tippett,-2.9356753826141357,False
+Live Your Life,composer,high,90000,23,T.I.,-4.719075679779053,Michael Tippett,-2.4064526557922363,False
+Live Your Life,composer,high,100000,28,T.I.,-4.455533504486084,Michael Tippett,-2.38263201713562,False
+Live Your Life,composer,high,109672,32,T.I.,-4.700093746185303,Michael Tippett,-2.66951060295105,False
+The Wrestler,director,high,0,0,Darren Aronofsky,-11.474037170410156,Timo Rose,-11.457268714904785,False
+The Wrestler,director,high,10000,9,Darren Aronofsky,-3.6826229095458984,Errol Morris,-5.613706588745117,True
+The Wrestler,director,high,20000,20,Darren Aronofsky,-5.2854509353637695,Errol Morris,-5.296522617340088,True
+The Wrestler,director,high,30000,26,Darren Aronofsky,-3.043942451477051,Errol Morris,-4.205160617828369,True
+The Wrestler,director,high,40000,37,Darren Aronofsky,-3.3622169494628906,Errol Morris,-5.079729080200195,True
+The Wrestler,director,high,50000,50,Darren Aronofsky,-3.3827152252197266,Errol Morris,-4.537757873535156,True
+The Wrestler,director,high,60000,61,Darren Aronofsky,-3.5100274085998535,Errol Morris,-4.159692287445068,True
+The Wrestler,director,high,70000,71,Darren Aronofsky,-2.620974063873291,Errol Morris,-4.80981969833374,True
+The Wrestler,director,high,80000,81,Darren Aronofsky,-3.032907724380493,Errol Morris,-3.9829769134521484,True
+The Wrestler,director,high,90000,90,Darren Aronofsky,-2.7669615745544434,Errol Morris,-4.253857135772705,True
+The Wrestler,director,high,100000,95,Darren Aronofsky,-2.627525568008423,Errol Morris,-4.385077953338623,True
+The Wrestler,director,high,109672,105,Darren Aronofsky,-2.7810566425323486,Errol Morris,-4.740525722503662,True
+Vision,father,high,0,0,Ultron,-11.468721389770508,Malcolm Kerr,-10.445060729980469,False
+Vision,father,high,10000,27,Ultron,-7.621639251708984,Lou Holtz,-6.163264751434326,False
+Vision,father,high,20000,64,Ultron,-6.853337287902832,Lou Holtz,-7.0514655113220215,True
+Vision,father,high,30000,101,Ultron,-6.991588592529297,Lou Holtz,-4.884934902191162,False
+Vision,father,high,40000,130,Ultron,-7.851280212402344,Lou Holtz,-6.50609827041626,False
+Vision,father,high,50000,162,Ultron,-6.529376029968262,Lou Holtz,-5.375019073486328,False
+Vision,father,high,60000,194,Ultron,-7.946866989135742,Lou Holtz,-4.777442932128906,False
+Vision,father,high,70000,241,Ultron,-7.480700969696045,Lou Holtz,-5.116117000579834,False
+Vision,father,high,80000,271,Ultron,-7.5821123123168945,Lou Holtz,-4.792937755584717,False
+Vision,father,high,90000,296,Ultron,-7.748022079467773,Lou Holtz,-4.835508823394775,False
+Vision,father,high,100000,331,Ultron,-7.62946891784668,Lou Holtz,-4.792690277099609,False
+Vision,father,high,109672,370,Ultron,-7.837630271911621,Lou Holtz,-4.992233753204346,False
+The Kid,screenwriter,high,0,0,Charlie Chaplin,-11.6892671585083,Sandra Goldbacher,-11.533859252929688,False
+The Kid,screenwriter,high,10000,6,Charlie Chaplin,-4.748417854309082,Michael Petroni,-5.402295112609863,True
+The Kid,screenwriter,high,20000,12,Charlie Chaplin,-4.627978801727295,Michael Petroni,-5.822542667388916,True
+The Kid,screenwriter,high,30000,17,Charlie Chaplin,-2.9887068271636963,Michael Petroni,-5.6005330085754395,True
+The Kid,screenwriter,high,40000,24,Charlie Chaplin,-4.339009761810303,Michael Petroni,-5.536989212036133,True
+The Kid,screenwriter,high,50000,27,Charlie Chaplin,-3.471555471420288,Michael Petroni,-4.004446506500244,True
+The Kid,screenwriter,high,60000,31,Charlie Chaplin,-2.8933522701263428,Michael Petroni,-4.266140937805176,True
+The Kid,screenwriter,high,70000,40,Charlie Chaplin,-3.6085212230682373,Michael Petroni,-4.548689842224121,True
+The Kid,screenwriter,high,80000,50,Charlie Chaplin,-3.432624578475952,Michael Petroni,-3.876849412918091,True
+The Kid,screenwriter,high,90000,58,Charlie Chaplin,-3.324481725692749,Michael Petroni,-4.787055969238281,True
+The Kid,screenwriter,high,100000,66,Charlie Chaplin,-3.0375359058380127,Michael Petroni,-3.8367862701416016,True
+The Kid,screenwriter,high,109672,74,Charlie Chaplin,-3.1637954711914062,Michael Petroni,-4.1166157722473145,True
+Another Year,composer,high,0,0,Gary Yershon,-11.429773330688477,Marc Shaiman,-11.459548950195312,True
+Another Year,composer,high,10000,1,Gary Yershon,-6.687141418457031,Marc Shaiman,-5.02364444732666,False
+Another Year,composer,high,20000,5,Gary Yershon,-5.996659278869629,Marc Shaiman,-5.020229339599609,False
+Another Year,composer,high,30000,7,Gary Yershon,-7.122799873352051,Marc Shaiman,-4.120306015014648,False
+Another Year,composer,high,40000,7,Gary Yershon,-6.507816314697266,Marc Shaiman,-4.283897399902344,False
+Another Year,composer,high,50000,11,Gary Yershon,-6.4458160400390625,Marc Shaiman,-3.6981801986694336,False
+Another Year,composer,high,60000,12,Gary Yershon,-6.441906929016113,Marc Shaiman,-3.8489701747894287,False
+Another Year,composer,high,70000,14,Gary Yershon,-7.16980504989624,Marc Shaiman,-3.147641181945801,False
+Another Year,composer,high,80000,16,Gary Yershon,-6.97864294052124,Marc Shaiman,-3.326141834259033,False
+Another Year,composer,high,90000,20,Gary Yershon,-6.713074207305908,Marc Shaiman,-3.367737054824829,False
+Another Year,composer,high,100000,24,Gary Yershon,-6.715799808502197,Marc Shaiman,-3.0250296592712402,False
+Another Year,composer,high,109672,31,Gary Yershon,-7.33784818649292,Marc Shaiman,-3.062067985534668,False
+Flesh,producer,high,0,0,Andy Warhol,-11.419300079345703,Timur Bekmambetov,-11.681166648864746,True
+Flesh,producer,high,10000,3,Andy Warhol,-3.7964699268341064,Timur Bekmambetov,-5.999764442443848,True
+Flesh,producer,high,20000,7,Andy Warhol,-3.5803184509277344,Timur Bekmambetov,-4.082207679748535,True
+Flesh,producer,high,30000,9,Andy Warhol,-3.498128652572632,Timur Bekmambetov,-3.591012477874756,True
+Flesh,producer,high,40000,11,Andy Warhol,-2.9322452545166016,Timur Bekmambetov,-3.564249038696289,True
+Flesh,producer,high,50000,12,Andy Warhol,-3.428753137588501,Timur Bekmambetov,-2.9509427547454834,False
+Flesh,producer,high,60000,15,Andy Warhol,-3.941401481628418,Timur Bekmambetov,-3.409900188446045,False
+Flesh,producer,high,70000,16,Andy Warhol,-3.363502264022827,Timur Bekmambetov,-3.1948280334472656,False
+Flesh,producer,high,80000,17,Andy Warhol,-3.573545455932617,Timur Bekmambetov,-2.4422078132629395,False
+Flesh,producer,high,90000,20,Andy Warhol,-4.257323741912842,Timur Bekmambetov,-2.4437787532806396,False
+Flesh,producer,high,100000,25,Andy Warhol,-3.8105392456054688,Timur Bekmambetov,-2.0641276836395264,False
+Flesh,producer,high,109672,25,Andy Warhol,-3.7642879486083984,Timur Bekmambetov,-2.700627565383911,False
+Cookie's Fortune,producer,high,0,0,Robert Altman,-11.759278297424316,Chris Meledandri,-11.539379119873047,False
+Cookie's Fortune,producer,high,10000,2,Robert Altman,-4.0107340812683105,Farhan Akhtar,-5.004040241241455,True
+Cookie's Fortune,producer,high,20000,2,Robert Altman,-4.002176761627197,Farhan Akhtar,-5.357510566711426,True
+Cookie's Fortune,producer,high,30000,6,Robert Altman,-4.284835338592529,Farhan Akhtar,-3.6706032752990723,False
+Cookie's Fortune,producer,high,40000,9,Robert Altman,-3.3848965167999268,Farhan Akhtar,-3.8122947216033936,True
+Cookie's Fortune,producer,high,50000,11,Robert Altman,-3.632922410964966,Farhan Akhtar,-3.6602587699890137,True
+Cookie's Fortune,producer,high,60000,13,Robert Altman,-3.8272860050201416,Farhan Akhtar,-3.6152923107147217,False
+Cookie's Fortune,producer,high,70000,13,Robert Altman,-3.924375295639038,Farhan Akhtar,-3.840979814529419,False
+Cookie's Fortune,producer,high,80000,14,Robert Altman,-3.6252176761627197,Farhan Akhtar,-3.6078202724456787,False
+Cookie's Fortune,producer,high,90000,16,Robert Altman,-3.789231538772583,Farhan Akhtar,-4.013948917388916,True
+Cookie's Fortune,producer,high,100000,21,Robert Altman,-3.9499480724334717,Farhan Akhtar,-3.7616159915924072,False
+Cookie's Fortune,producer,high,109672,23,Robert Altman,-4.057460784912109,Farhan Akhtar,-3.507863759994507,False
+Elizabeth,capital of,high,0,1,Province of New Jersey,-12.315478324890137,Odense Municipality,-11.845165252685547,False
+Elizabeth,capital of,high,10000,126,Province of New Jersey,-4.614602088928223,Odense Municipality,-4.466226100921631,False
+Elizabeth,capital of,high,20000,246,Province of New Jersey,-4.469754219055176,Odense Municipality,-3.5820693969726562,False
+Elizabeth,capital of,high,30000,354,Province of New Jersey,-4.877258777618408,Odense Municipality,-4.1115593910217285,False
+Elizabeth,capital of,high,40000,493,Province of New Jersey,-4.533416271209717,Odense Municipality,-4.785236358642578,True
+Elizabeth,capital of,high,50000,612,Province of New Jersey,-4.6650309562683105,Odense Municipality,-4.961960315704346,True
+Elizabeth,capital of,high,60000,726,Province of New Jersey,-4.256063461303711,Odense Municipality,-3.5925869941711426,False
+Elizabeth,capital of,high,70000,829,Province of New Jersey,-4.214820861816406,Odense Municipality,-4.27396821975708,True
+Elizabeth,capital of,high,80000,954,Province of New Jersey,-4.5275373458862305,Odense Municipality,-4.315313339233398,False
+Elizabeth,capital of,high,90000,1070,Province of New Jersey,-4.380460739135742,Odense Municipality,-4.4391045570373535,True
+Elizabeth,capital of,high,100000,1186,Province of New Jersey,-4.488264083862305,Odense Municipality,-5.151659965515137,True
+Elizabeth,capital of,high,109672,1279,Province of New Jersey,-4.8373613357543945,Odense Municipality,-5.471314907073975,True
+Azhagi,screenwriter,high,0,0,Thangar Bachan,-11.420343399047852,John Landis,-11.355143547058105,False
+Azhagi,screenwriter,high,10000,0,Thangar Bachan,-5.783662796020508,John Keel,-5.679078578948975,False
+Azhagi,screenwriter,high,20000,0,Thangar Bachan,-5.948502540588379,John Landis,-6.4558491706848145,True
+Azhagi,screenwriter,high,30000,2,Thangar Bachan,-5.363284111022949,John Landis,-5.470366954803467,True
+Azhagi,screenwriter,high,40000,5,Thangar Bachan,-5.822007656097412,John Landis,-5.774916172027588,False
+Azhagi,screenwriter,high,50000,12,Thangar Bachan,-4.95238733291626,John Landis,-5.217212677001953,True
+Azhagi,screenwriter,high,60000,13,Thangar Bachan,-5.550372123718262,John Landis,-5.147554397583008,False
+Azhagi,screenwriter,high,70000,16,Thangar Bachan,-5.0645856857299805,John Landis,-5.217983722686768,True
+Azhagi,screenwriter,high,80000,18,Thangar Bachan,-5.333470821380615,John Landis,-5.42397928237915,True
+Azhagi,screenwriter,high,90000,21,Thangar Bachan,-4.548800945281982,John Landis,-5.834468841552734,True
+Azhagi,screenwriter,high,100000,22,Thangar Bachan,-4.064352989196777,John Landis,-4.908223628997803,True
+Azhagi,screenwriter,high,109672,25,Thangar Bachan,-3.7353675365448,John Landis,-5.107162952423096,True
+This Love,composer,high,0,0,Jesse Carmichael,-11.588358879089355,Galt MacDermot,-11.594923973083496,True
+This Love,composer,high,10000,8,Jesse Carmichael,-5.783597469329834,Galt MacDermot,-5.224447727203369,False
+This Love,composer,high,20000,10,Jesse Carmichael,-6.550227642059326,Galt MacDermot,-4.808079242706299,False
+This Love,composer,high,30000,12,Jesse Carmichael,-7.3476881980896,Galt MacDermot,-4.673205852508545,False
+This Love,composer,high,40000,16,Jesse Carmichael,-6.396633148193359,Galt MacDermot,-4.636294841766357,False
+This Love,composer,high,50000,21,Jesse Carmichael,-6.35912561416626,Galt MacDermot,-3.6495397090911865,False
+This Love,composer,high,60000,27,Jesse Carmichael,-6.695756435394287,Galt MacDermot,-4.024348258972168,False
+This Love,composer,high,70000,32,Jesse Carmichael,-6.539867877960205,Galt MacDermot,-4.2081804275512695,False
+This Love,composer,high,80000,35,Jesse Carmichael,-6.728036403656006,Galt MacDermot,-2.88968563079834,False
+This Love,composer,high,90000,36,Jesse Carmichael,-6.699927806854248,Galt MacDermot,-3.776979684829712,False
+This Love,composer,high,100000,40,Jesse Carmichael,-6.693321228027344,Galt MacDermot,-3.119849920272827,False
+This Love,composer,high,109672,42,Jesse Carmichael,-7.064799785614014,Galt MacDermot,-2.972715377807617,False
+Ray,producer,high,0,0,Taylor Hackford,-11.226601600646973,John Grisham,-11.498537063598633,True
+Ray,producer,high,10000,9,Taylor Hackford,-6.278621673583984,John Grisham,-3.7550525665283203,False
+Ray,producer,high,20000,21,Taylor Hackford,-6.095317363739014,John Grisham,-4.305478572845459,False
+Ray,producer,high,30000,31,Taylor Hackford,-5.8714599609375,John Grisham,-3.2164175510406494,False
+Ray,producer,high,40000,38,Taylor Hackford,-6.252481937408447,John Grisham,-3.2119126319885254,False
+Ray,producer,high,50000,45,Taylor Hackford,-6.83617639541626,John Grisham,-3.6168131828308105,False
+Ray,producer,high,60000,57,Taylor Hackford,-6.236976623535156,John Grisham,-3.043858051300049,False
+Ray,producer,high,70000,68,Taylor Hackford,-7.037646770477295,John Grisham,-3.946040153503418,False
+Ray,producer,high,80000,77,Taylor Hackford,-5.481579303741455,John Grisham,-3.519559144973755,False
+Ray,producer,high,90000,85,Taylor Hackford,-5.609564304351807,John Grisham,-3.5988717079162598,False
+Ray,producer,high,100000,93,Taylor Hackford,-5.291993618011475,John Grisham,-3.197692632675171,False
+Ray,producer,high,109672,102,Taylor Hackford,-5.3683552742004395,John Grisham,-3.505546808242798,False
+Hippolyte Flandrin,genre,high,0,0,history painting,-11.504692077636719,melodic death metal,-11.661846160888672,True
+Hippolyte Flandrin,genre,high,10000,3,history painting,-6.8604326248168945,melodic death metal,-4.099584579467773,False
+Hippolyte Flandrin,genre,high,20000,7,history painting,-8.021049499511719,melodic death metal,-3.7273402214050293,False
+Hippolyte Flandrin,genre,high,30000,15,history painting,-6.433075428009033,melodic death metal,-3.406555652618408,False
+Hippolyte Flandrin,genre,high,40000,24,history painting,-6.523902893066406,melodic death metal,-4.030604839324951,False
+Hippolyte Flandrin,genre,high,50000,33,history painting,-7.781160354614258,melodic death metal,-4.133127212524414,False
+Hippolyte Flandrin,genre,high,60000,40,history painting,-6.172373294830322,melodic death metal,-4.522329807281494,False
+Hippolyte Flandrin,genre,high,70000,43,history painting,-7.506626129150391,melodic death metal,-3.172673225402832,False
+Hippolyte Flandrin,genre,high,80000,47,history painting,-6.880917072296143,melodic death metal,-4.182542324066162,False
+Hippolyte Flandrin,genre,high,90000,53,history painting,-5.767884731292725,melodic death metal,-3.841960906982422,False
+Hippolyte Flandrin,genre,high,100000,57,history painting,-6.6675872802734375,melodic death metal,-3.8290717601776123,False
+Hippolyte Flandrin,genre,high,109672,63,history painting,-6.183520793914795,melodic death metal,-4.246062278747559,False
+The Others,genre,high,0,0,horror film,-12.204377174377441,essay,-11.039461135864258,False
+The Others,genre,high,10000,9,horror film,-6.958110809326172,experimental film,-6.561627388000488,False
+The Others,genre,high,20000,17,horror film,-6.313389778137207,experimental film,-7.063113212585449,True
+The Others,genre,high,30000,23,horror film,-6.548306465148926,experimental film,-6.153261661529541,False
+The Others,genre,high,40000,28,horror film,-5.5110907554626465,experimental film,-5.728702545166016,True
+The Others,genre,high,50000,36,horror film,-5.117711067199707,experimental film,-6.088506698608398,True
+The Others,genre,high,60000,40,horror film,-5.730607032775879,experimental film,-6.629538059234619,True
+The Others,genre,high,70000,44,horror film,-6.113279819488525,experimental film,-7.226497173309326,True
+The Others,genre,high,80000,49,horror film,-6.09561824798584,experimental film,-6.700346946716309,True
+The Others,genre,high,90000,58,horror film,-5.726955890655518,experimental film,-6.365137577056885,True
+The Others,genre,high,100000,61,horror film,-6.483601093292236,experimental film,-7.289226055145264,True
+The Others,genre,high,109672,67,horror film,-5.439740180969238,experimental film,-6.405247688293457,True
